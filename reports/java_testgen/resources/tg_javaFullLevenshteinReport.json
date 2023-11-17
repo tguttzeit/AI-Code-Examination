@@ -1,0 +1,3078 @@
+{
+ "ChatGPT": {
+  "BinaryToDecimal": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/BinaryToDecimal/AIGenerated/T2/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/BinaryToDecimal/AIGenerated/T5/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/BinaryToDecimal/AIGenerated/T8/BinaryToDecimalTest.java",
+     "distance": 41
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/AIGenerated/T1/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/AIGenerated/T10/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/AIGenerated/T3/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/AIGenerated/T4/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/AIGenerated/T6/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/AIGenerated/T7/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/AIGenerated/T9/BinaryToDecimalTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/BinaryToDecimal/PromptOnly/T4/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/PromptOnly/T1/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/PromptOnly/T10/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/PromptOnly/T2/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/PromptOnly/T3/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/PromptOnly/T5/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/PromptOnly/T6/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/PromptOnly/T7/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/PromptOnly/T8/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/PromptOnly/T9/BinaryToDecimalTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/BookExampleCode/T1/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/BookExampleCode/T10/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/BookExampleCode/T2/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/BookExampleCode/T3/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/BookExampleCode/T4/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/BookExampleCode/T5/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/BookExampleCode/T6/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/BookExampleCode/T7/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/BookExampleCode/T8/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinaryToDecimal/BookExampleCode/T9/BinaryToDecimalTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "BreadthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/BreadthFirstSearch/AIGenerated/T10/GraphTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/BreadthFirstSearch/AIGenerated/T8/GraphTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/AIGenerated/T1/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/AIGenerated/T2/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/AIGenerated/T3/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/AIGenerated/T4/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/AIGenerated/T5/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/AIGenerated/T6/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/AIGenerated/T7/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/AIGenerated/T9/GraphTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/BookExampleCode/T1/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/BookExampleCode/T10/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/BookExampleCode/T2/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/BookExampleCode/T3/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/BookExampleCode/T4/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/BookExampleCode/T5/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/BookExampleCode/T6/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/BookExampleCode/T7/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/BookExampleCode/T8/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/BookExampleCode/T9/GraphTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/PromptOnly/T1/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/PromptOnly/T10/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/PromptOnly/T2/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/PromptOnly/T3/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/PromptOnly/T4/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/PromptOnly/T5/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/PromptOnly/T6/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/PromptOnly/T7/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/PromptOnly/T8/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BreadthFirstSearch/PromptOnly/T9/GraphTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "DepthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/DepthFirstSearch/AIGenerated/T1/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/DepthFirstSearch/AIGenerated/T2/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/DepthFirstSearch/AIGenerated/T5/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/AIGenerated/T10/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/AIGenerated/T3/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/AIGenerated/T4/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/AIGenerated/T6/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/AIGenerated/T7/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/AIGenerated/T8/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/AIGenerated/T9/DepthFirstSearchTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/DepthFirstSearch/PromptOnly/T1/DepthFirstSearchTest.java",
+     "distance": 33
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/DepthFirstSearch/PromptOnly/T10/DepthFirstSearchTest.java",
+     "distance": 33
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/DepthFirstSearch/PromptOnly/T2/DepthFirstSearchTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/DepthFirstSearch/PromptOnly/T3/DepthFirstSearchTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/DepthFirstSearch/PromptOnly/T5/DepthFirstSearchTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/DepthFirstSearch/PromptOnly/T6/DepthFirstSearchTest.java",
+     "distance": 20
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/DepthFirstSearch/PromptOnly/T9/DepthFirstSearchTest.java",
+     "distance": 30
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/PromptOnly/T4/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/PromptOnly/T7/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/PromptOnly/T8/DepthFirstSearchTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/BookExampleCode/T1/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/BookExampleCode/T10/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/BookExampleCode/T2/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/BookExampleCode/T3/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/BookExampleCode/T4/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/BookExampleCode/T5/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/BookExampleCode/T6/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/BookExampleCode/T7/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/BookExampleCode/T8/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/DepthFirstSearch/BookExampleCode/T9/DepthFirstSearchTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "Dijkstra": {
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/Dijkstra/BookExampleCode/T10/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/Dijkstra/BookExampleCode/T8/DijkstraTest.java",
+     "distance": 50
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/BookExampleCode/T1/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/BookExampleCode/T2/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/BookExampleCode/T3/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/BookExampleCode/T4/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/BookExampleCode/T5/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/BookExampleCode/T6/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/BookExampleCode/T7/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/BookExampleCode/T9/DijkstraTest.java",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/AIGenerated/T1/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/AIGenerated/T10/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/AIGenerated/T2/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/AIGenerated/T3/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/AIGenerated/T4/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/AIGenerated/T5/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/AIGenerated/T6/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/AIGenerated/T7/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/AIGenerated/T8/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/AIGenerated/T9/DijkstraTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/PromptOnly/T1/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/PromptOnly/T10/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/PromptOnly/T2/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/PromptOnly/T3/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/PromptOnly/T4/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/PromptOnly/T5/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/PromptOnly/T6/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/PromptOnly/T7/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/PromptOnly/T8/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Dijkstra/PromptOnly/T9/DijkstraTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "EgyptianFractions": {
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/EgyptianFractions/PromptOnly/T8/EgyptianFractionsTest.java",
+     "distance": 2
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/PromptOnly/T1/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/PromptOnly/T10/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/PromptOnly/T2/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/PromptOnly/T3/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/PromptOnly/T4/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/PromptOnly/T5/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/PromptOnly/T6/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/PromptOnly/T7/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/PromptOnly/T9/EgyptianFractionsTest.java",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/AIGenerated/T1/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/AIGenerated/T10/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/AIGenerated/T2/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/AIGenerated/T3/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/AIGenerated/T4/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/AIGenerated/T5/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/AIGenerated/T6/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/AIGenerated/T7/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/AIGenerated/T8/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/AIGenerated/T9/EgyptianFractionsTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/BookExampleCode/T1/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/BookExampleCode/T10/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/BookExampleCode/T2/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/BookExampleCode/T3/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/BookExampleCode/T4/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/BookExampleCode/T5/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/BookExampleCode/T6/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/BookExampleCode/T7/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/BookExampleCode/T8/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/EgyptianFractions/BookExampleCode/T9/EgyptianFractionsTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "FloydWarshall": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/FloydWarshall/AIGenerated/T4/FloydWarshallTest.java",
+     "distance": 187
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/FloydWarshall/AIGenerated/T5/FloydWarshallTest.java",
+     "distance": 187
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/AIGenerated/T1/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/AIGenerated/T10/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/AIGenerated/T2/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/AIGenerated/T3/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/AIGenerated/T6/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/AIGenerated/T7/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/AIGenerated/T8/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/AIGenerated/T9/FloydWarshallTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/BookExampleCode/T1/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/BookExampleCode/T10/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/BookExampleCode/T2/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/BookExampleCode/T3/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/BookExampleCode/T4/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/BookExampleCode/T5/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/BookExampleCode/T6/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/BookExampleCode/T7/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/BookExampleCode/T8/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/BookExampleCode/T9/FloydWarshallTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/PromptOnly/T1/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/PromptOnly/T10/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/PromptOnly/T2/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/PromptOnly/T3/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/PromptOnly/T4/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/PromptOnly/T5/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/PromptOnly/T6/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/PromptOnly/T7/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/PromptOnly/T8/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/FloydWarshall/PromptOnly/T9/FloydWarshallTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "MergeSort": {
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/MergeSort/PromptOnly/T10/MergeSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/MergeSort/PromptOnly/T3/MergeSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/MergeSort/PromptOnly/T4/MergeSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/MergeSort/PromptOnly/T5/MergeSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/MergeSort/PromptOnly/T6/MergeSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/MergeSort/PromptOnly/T8/MergeSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/MergeSort/PromptOnly/T9/MergeSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/PromptOnly/T1/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/PromptOnly/T2/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/PromptOnly/T7/MergeSortTest.java",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/AIGenerated/T1/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/AIGenerated/T10/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/AIGenerated/T2/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/AIGenerated/T3/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/AIGenerated/T4/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/AIGenerated/T5/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/AIGenerated/T6/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/AIGenerated/T7/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/AIGenerated/T8/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/AIGenerated/T9/MergeSortTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/BookExampleCode/T1/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/BookExampleCode/T10/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/BookExampleCode/T2/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/BookExampleCode/T3/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/BookExampleCode/T4/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/BookExampleCode/T5/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/BookExampleCode/T6/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/BookExampleCode/T7/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/BookExampleCode/T8/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/MergeSort/BookExampleCode/T9/MergeSortTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "QuickSort": {
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/QuickSort/PromptOnly/T10/QuickSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/QuickSort/PromptOnly/T4/QuickSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/QuickSort/PromptOnly/T5/QuickSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/ChatGPT/QuickSort/PromptOnly/T7/QuickSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/PromptOnly/T1/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/PromptOnly/T2/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/PromptOnly/T3/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/PromptOnly/T6/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/PromptOnly/T8/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/PromptOnly/T9/QuickSortTest.java",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/AIGenerated/T1/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/AIGenerated/T10/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/AIGenerated/T2/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/AIGenerated/T3/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/AIGenerated/T4/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/AIGenerated/T5/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/AIGenerated/T6/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/AIGenerated/T7/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/AIGenerated/T8/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/AIGenerated/T9/QuickSortTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/BookExampleCode/T1/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/BookExampleCode/T10/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/BookExampleCode/T2/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/BookExampleCode/T3/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/BookExampleCode/T4/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/BookExampleCode/T5/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/BookExampleCode/T6/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/BookExampleCode/T7/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/BookExampleCode/T8/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/QuickSort/BookExampleCode/T9/QuickSortTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "BellmanFord": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/AIGenerated/T1/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/AIGenerated/T10/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/AIGenerated/T2/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/AIGenerated/T3/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/AIGenerated/T4/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/AIGenerated/T5/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/AIGenerated/T6/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/AIGenerated/T7/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/AIGenerated/T8/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/AIGenerated/T9/BellmanFordTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/BookExampleCode/T1/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/BookExampleCode/T10/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/BookExampleCode/T2/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/BookExampleCode/T3/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/BookExampleCode/T4/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/BookExampleCode/T5/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/BookExampleCode/T6/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/BookExampleCode/T7/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/BookExampleCode/T8/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/BookExampleCode/T9/BellmanFordTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/PromptOnly/T1/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/PromptOnly/T10/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/PromptOnly/T2/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/PromptOnly/T3/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/PromptOnly/T4/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/PromptOnly/T5/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/PromptOnly/T6/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/PromptOnly/T7/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/PromptOnly/T8/BellmanFordTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BellmanFord/PromptOnly/T9/BellmanFordTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "BinarySearch": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/AIGenerated/T1/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/AIGenerated/T10/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/AIGenerated/T2/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/AIGenerated/T3/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/AIGenerated/T4/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/AIGenerated/T5/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/AIGenerated/T6/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/AIGenerated/T7/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/AIGenerated/T8/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/AIGenerated/T9/BinarySearchTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/BookExampleCode/T1/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/BookExampleCode/T10/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/BookExampleCode/T2/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/BookExampleCode/T3/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/BookExampleCode/T4/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/BookExampleCode/T5/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/BookExampleCode/T6/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/BookExampleCode/T7/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/BookExampleCode/T8/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/BookExampleCode/T9/BinarySearchTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/PromptOnly/T1/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/PromptOnly/T10/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/PromptOnly/T2/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/PromptOnly/T3/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/PromptOnly/T4/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/PromptOnly/T5/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/PromptOnly/T6/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/PromptOnly/T7/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/PromptOnly/T8/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/BinarySearch/PromptOnly/T9/BinarySearchTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "Knapsack": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/AIGenerated/T1/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/AIGenerated/T10/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/AIGenerated/T2/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/AIGenerated/T3/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/AIGenerated/T4/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/AIGenerated/T5/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/AIGenerated/T6/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/AIGenerated/T7/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/AIGenerated/T8/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/AIGenerated/T9/KnapsackTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/BookExampleCode/T1/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/BookExampleCode/T10/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/BookExampleCode/T2/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/BookExampleCode/T3/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/BookExampleCode/T4/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/BookExampleCode/T5/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/BookExampleCode/T6/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/BookExampleCode/T7/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/BookExampleCode/T8/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/BookExampleCode/T9/KnapsackTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/PromptOnly/T1/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/PromptOnly/T10/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/PromptOnly/T2/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/PromptOnly/T3/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/PromptOnly/T4/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/PromptOnly/T5/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/PromptOnly/T6/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/PromptOnly/T7/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/PromptOnly/T8/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Knapsack/PromptOnly/T9/KnapsackTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "Kruskal": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/AIGenerated/T1/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/AIGenerated/T10/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/AIGenerated/T2/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/AIGenerated/T3/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/AIGenerated/T4/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/AIGenerated/T5/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/AIGenerated/T6/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/AIGenerated/T7/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/AIGenerated/T8/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/AIGenerated/T9/KruskalTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/BookExampleCode/T1/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/BookExampleCode/T10/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/BookExampleCode/T2/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/BookExampleCode/T3/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/BookExampleCode/T4/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/BookExampleCode/T5/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/BookExampleCode/T6/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/BookExampleCode/T7/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/BookExampleCode/T8/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/BookExampleCode/T9/KruskalTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/PromptOnly/T1/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/PromptOnly/T10/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/PromptOnly/T2/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/PromptOnly/T3/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/PromptOnly/T4/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/PromptOnly/T5/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/PromptOnly/T6/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/PromptOnly/T7/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/PromptOnly/T8/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/ChatGPT/Kruskal/PromptOnly/T9/KruskalTest.java",
+     "distance": 0
+    }
+   ]
+  }
+ },
+ "Copilot": {
+  "BellmanFord": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/AIGenerated/T1/BellmanFordTest.java",
+     "distance": 8
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/AIGenerated/T10/BellmanFordTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/AIGenerated/T2/BellmanFordTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/AIGenerated/T3/BellmanFordTest.java",
+     "distance": 11
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/AIGenerated/T4/BellmanFordTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/AIGenerated/T5/BellmanFordTest.java",
+     "distance": 14
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/AIGenerated/T6/BellmanFordTest.java",
+     "distance": 156
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/AIGenerated/T7/BellmanFordTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/AIGenerated/T8/BellmanFordTest.java",
+     "distance": 59
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/AIGenerated/T9/BellmanFordTest.java",
+     "distance": 56
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/BookExampleCode/T1/BellmanFordTest.java",
+     "distance": 8
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/BookExampleCode/T10/BellmanFordTest.java",
+     "distance": 39
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/BookExampleCode/T2/BellmanFordTest.java",
+     "distance": 44
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/BookExampleCode/T3/BellmanFordTest.java",
+     "distance": 42
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/BookExampleCode/T4/BellmanFordTest.java",
+     "distance": 43
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/BookExampleCode/T5/BellmanFordTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/BookExampleCode/T6/BellmanFordTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/BookExampleCode/T7/BellmanFordTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/BookExampleCode/T8/BellmanFordTest.java",
+     "distance": 43
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/BookExampleCode/T9/BellmanFordTest.java",
+     "distance": 8
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/PromptOnly/T1/BellmanFordTest.java",
+     "distance": 6
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/PromptOnly/T10/BellmanFordTest.java",
+     "distance": 31
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/PromptOnly/T2/BellmanFordTest.java",
+     "distance": 14
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/PromptOnly/T3/BellmanFordTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/PromptOnly/T4/BellmanFordTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/PromptOnly/T5/BellmanFordTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/PromptOnly/T6/BellmanFordTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/PromptOnly/T7/BellmanFordTest.java",
+     "distance": 2
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/PromptOnly/T8/BellmanFordTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BellmanFord/PromptOnly/T9/BellmanFordTest.java",
+     "distance": 4
+    }
+   ]
+  },
+  "BinarySearch": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinarySearch/AIGenerated/T10/BinarySearchTest.java",
+     "distance": 2
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/AIGenerated/T1/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/AIGenerated/T2/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/AIGenerated/T3/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/AIGenerated/T4/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/AIGenerated/T5/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/AIGenerated/T6/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/AIGenerated/T7/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/AIGenerated/T8/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/AIGenerated/T9/BinarySearchTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinarySearch/BookExampleCode/T5/BinarySearchTest.java",
+     "distance": 16
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/BookExampleCode/T1/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/BookExampleCode/T10/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/BookExampleCode/T2/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/BookExampleCode/T3/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/BookExampleCode/T4/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/BookExampleCode/T6/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/BookExampleCode/T7/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/BookExampleCode/T8/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/BookExampleCode/T9/BinarySearchTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinarySearch/PromptOnly/T2/BinarySearchTest.java",
+     "distance": 20
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinarySearch/PromptOnly/T6/BinarySearchTest.java",
+     "distance": 6
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinarySearch/PromptOnly/T9/BinarySearchTest.java",
+     "distance": 35
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/PromptOnly/T1/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/PromptOnly/T10/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/PromptOnly/T3/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/PromptOnly/T4/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/PromptOnly/T5/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/PromptOnly/T7/BinarySearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinarySearch/PromptOnly/T8/BinarySearchTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "BinaryToDecimal": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/AIGenerated/T2/BinaryToDecimalTest.java",
+     "distance": 2
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/AIGenerated/T7/BinaryToDecimalTest.java",
+     "distance": 17
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/AIGenerated/T1/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/AIGenerated/T10/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/AIGenerated/T3/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/AIGenerated/T4/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/AIGenerated/T5/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/AIGenerated/T6/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/AIGenerated/T8/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/AIGenerated/T9/BinaryToDecimalTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/BookExampleCode/T4/BinaryToDecimalTest.java",
+     "distance": 19
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/BookExampleCode/T7/BinaryToDecimalTest.java",
+     "distance": 19
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/BookExampleCode/T9/BinaryToDecimalTest.java",
+     "distance": 19
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/BookExampleCode/T1/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/BookExampleCode/T10/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/BookExampleCode/T2/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/BookExampleCode/T3/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/BookExampleCode/T5/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/BookExampleCode/T6/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/BookExampleCode/T8/BinaryToDecimalTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/PromptOnly/T1/BinaryToDecimalTest.java",
+     "distance": 55
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/PromptOnly/T2/BinaryToDecimalTest.java",
+     "distance": 1
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/PromptOnly/T4/BinaryToDecimalTest.java",
+     "distance": 12
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/PromptOnly/T5/BinaryToDecimalTest.java",
+     "distance": 39
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/PromptOnly/T6/BinaryToDecimalTest.java",
+     "distance": 12
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/PromptOnly/T7/BinaryToDecimalTest.java",
+     "distance": 13
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BinaryToDecimal/PromptOnly/T8/BinaryToDecimalTest.java",
+     "distance": 1
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/PromptOnly/T10/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/PromptOnly/T3/BinaryToDecimalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BinaryToDecimal/PromptOnly/T9/BinaryToDecimalTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "BreadthFirstSearch": {
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BreadthFirstSearch/PromptOnly/T3/GraphTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/BreadthFirstSearch/PromptOnly/T6/GraphTest.java",
+     "distance": 210
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/PromptOnly/T1/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/PromptOnly/T10/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/PromptOnly/T2/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/PromptOnly/T4/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/PromptOnly/T5/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/PromptOnly/T7/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/PromptOnly/T8/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/PromptOnly/T9/GraphTest.java",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/AIGenerated/T1/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/AIGenerated/T10/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/AIGenerated/T2/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/AIGenerated/T3/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/AIGenerated/T4/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/AIGenerated/T5/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/AIGenerated/T6/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/AIGenerated/T7/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/AIGenerated/T8/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/AIGenerated/T9/GraphTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/BookExampleCode/T1/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/BookExampleCode/T10/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/BookExampleCode/T2/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/BookExampleCode/T3/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/BookExampleCode/T4/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/BookExampleCode/T5/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/BookExampleCode/T6/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/BookExampleCode/T7/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/BookExampleCode/T8/GraphTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/BreadthFirstSearch/BookExampleCode/T9/GraphTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "DepthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/AIGenerated/T10/DepthFirstSearchTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/AIGenerated/T2/DepthFirstSearchTest.java",
+     "distance": 12
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/AIGenerated/T3/DepthFirstSearchTest.java",
+     "distance": 41
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/AIGenerated/T4/DepthFirstSearchTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/AIGenerated/T6/DepthFirstSearchTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/AIGenerated/T7/DepthFirstSearchTest.java",
+     "distance": 12
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/AIGenerated/T9/DepthFirstSearchTest.java",
+     "distance": 13
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/AIGenerated/T1/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/AIGenerated/T5/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/AIGenerated/T8/DepthFirstSearchTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/BookExampleCode/T10/DepthFirstSearchTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/BookExampleCode/T2/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/BookExampleCode/T3/DepthFirstSearchTest.java",
+     "distance": 12
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/BookExampleCode/T6/DepthFirstSearchTest.java",
+     "distance": 12
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/BookExampleCode/T7/DepthFirstSearchTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/BookExampleCode/T1/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/BookExampleCode/T4/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/BookExampleCode/T5/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/BookExampleCode/T8/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/BookExampleCode/T9/DepthFirstSearchTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/PromptOnly/T2/DepthFirstSearchTest.java",
+     "distance": 86
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/PromptOnly/T3/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/PromptOnly/T5/DepthFirstSearchTest.java",
+     "distance": 14
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/PromptOnly/T7/DepthFirstSearchTest.java",
+     "distance": 9
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/DepthFirstSearch/PromptOnly/T9/DepthFirstSearchTest.java",
+     "distance": 13
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/PromptOnly/T1/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/PromptOnly/T10/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/PromptOnly/T4/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/PromptOnly/T6/DepthFirstSearchTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/DepthFirstSearch/PromptOnly/T8/DepthFirstSearchTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "Dijkstra": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/AIGenerated/T1/DijkstraTest.java",
+     "distance": 9
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/AIGenerated/T10/DijkstraTest.java",
+     "distance": 11
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/AIGenerated/T2/DijkstraTest.java",
+     "distance": 2
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/AIGenerated/T3/DijkstraTest.java",
+     "distance": 55
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/AIGenerated/T4/DijkstraTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/AIGenerated/T5/DijkstraTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/AIGenerated/T6/DijkstraTest.java",
+     "distance": 53
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/AIGenerated/T7/DijkstraTest.java",
+     "distance": 27
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/AIGenerated/T8/DijkstraTest.java",
+     "distance": 2
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/AIGenerated/T9/DijkstraTest.java",
+     "distance": 4
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/BookExampleCode/T1/DijkstraTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/BookExampleCode/T10/DijkstraTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/BookExampleCode/T2/DijkstraTest.java",
+     "distance": 2
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/BookExampleCode/T3/DijkstraTest.java",
+     "distance": 50
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/BookExampleCode/T4/DijkstraTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/BookExampleCode/T5/DijkstraTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/BookExampleCode/T6/DijkstraTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/BookExampleCode/T8/DijkstraTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/BookExampleCode/T9/DijkstraTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Dijkstra/BookExampleCode/T7/DijkstraTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/PromptOnly/T1/DijkstraTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/PromptOnly/T10/DijkstraTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/PromptOnly/T4/DijkstraTest.java",
+     "distance": 9
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/PromptOnly/T5/DijkstraTest.java",
+     "distance": 9
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/PromptOnly/T6/DijkstraTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/PromptOnly/T7/DijkstraTest.java",
+     "distance": 9
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/PromptOnly/T8/DijkstraTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Dijkstra/PromptOnly/T9/DijkstraTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Dijkstra/PromptOnly/T2/DijkstraTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Dijkstra/PromptOnly/T3/DijkstraTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "EgyptianFractions": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/EgyptianFractions/AIGenerated/T1/EgyptianFractionsTest.java",
+     "distance": 47
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/EgyptianFractions/AIGenerated/T3/EgyptianFractionsTest.java",
+     "distance": 22
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/AIGenerated/T10/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/AIGenerated/T2/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/AIGenerated/T4/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/AIGenerated/T5/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/AIGenerated/T6/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/AIGenerated/T7/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/AIGenerated/T8/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/AIGenerated/T9/EgyptianFractionsTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/EgyptianFractions/PromptOnly/T1/EgyptianFractionsTest.java",
+     "distance": 6
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/EgyptianFractions/PromptOnly/T10/EgyptianFractionsTest.java",
+     "distance": 21
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/EgyptianFractions/PromptOnly/T3/EgyptianFractionsTest.java",
+     "distance": 6
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/PromptOnly/T2/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/PromptOnly/T4/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/PromptOnly/T5/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/PromptOnly/T6/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/PromptOnly/T7/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/PromptOnly/T8/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/PromptOnly/T9/EgyptianFractionsTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/BookExampleCode/T1/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/BookExampleCode/T10/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/BookExampleCode/T2/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/BookExampleCode/T3/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/BookExampleCode/T4/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/BookExampleCode/T5/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/BookExampleCode/T6/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/BookExampleCode/T7/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/BookExampleCode/T8/EgyptianFractionsTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/EgyptianFractions/BookExampleCode/T9/EgyptianFractionsTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "FloydWarshall": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/AIGenerated/T1/FloydWarshallTest.java",
+     "distance": 1
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/AIGenerated/T10/FloydWarshallTest.java",
+     "distance": 1
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/AIGenerated/T2/FloydWarshallTest.java",
+     "distance": 10
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/AIGenerated/T3/FloydWarshallTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/AIGenerated/T4/FloydWarshallTest.java",
+     "distance": 24
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/AIGenerated/T5/FloydWarshallTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/AIGenerated/T6/FloydWarshallTest.java",
+     "distance": 9
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/AIGenerated/T7/FloydWarshallTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/AIGenerated/T8/FloydWarshallTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/AIGenerated/T9/FloydWarshallTest.java",
+     "distance": 28
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/BookExampleCode/T4/FloydWarshallTest.java",
+     "distance": 13
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/BookExampleCode/T5/FloydWarshallTest.java",
+     "distance": 6
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/BookExampleCode/T8/FloydWarshallTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/BookExampleCode/T9/FloydWarshallTest.java",
+     "distance": 34
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/FloydWarshall/BookExampleCode/T1/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/FloydWarshall/BookExampleCode/T10/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/FloydWarshall/BookExampleCode/T2/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/FloydWarshall/BookExampleCode/T3/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/FloydWarshall/BookExampleCode/T6/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/FloydWarshall/BookExampleCode/T7/FloydWarshallTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/PromptOnly/T1/FloydWarshallTest.java",
+     "distance": 38
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/PromptOnly/T2/FloydWarshallTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/PromptOnly/T3/FloydWarshallTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/PromptOnly/T4/FloydWarshallTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/PromptOnly/T5/FloydWarshallTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/PromptOnly/T6/FloydWarshallTest.java",
+     "distance": 53
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/PromptOnly/T8/FloydWarshallTest.java",
+     "distance": 1
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/FloydWarshall/PromptOnly/T9/FloydWarshallTest.java",
+     "distance": 513
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/FloydWarshall/PromptOnly/T10/FloydWarshallTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/FloydWarshall/PromptOnly/T7/FloydWarshallTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "Knapsack": {
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Knapsack/PromptOnly/T1/KnapsackTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Knapsack/PromptOnly/T10/KnapsackTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Knapsack/PromptOnly/T3/KnapsackTest.java",
+     "distance": 23
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Knapsack/PromptOnly/T4/KnapsackTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Knapsack/PromptOnly/T5/KnapsackTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Knapsack/PromptOnly/T7/KnapsackTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Knapsack/PromptOnly/T8/KnapsackTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/PromptOnly/T2/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/PromptOnly/T6/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/PromptOnly/T9/KnapsackTest.java",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/AIGenerated/T1/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/AIGenerated/T10/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/AIGenerated/T2/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/AIGenerated/T3/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/AIGenerated/T4/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/AIGenerated/T5/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/AIGenerated/T6/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/AIGenerated/T7/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/AIGenerated/T8/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/AIGenerated/T9/KnapsackTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/BookExampleCode/T1/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/BookExampleCode/T10/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/BookExampleCode/T2/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/BookExampleCode/T3/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/BookExampleCode/T4/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/BookExampleCode/T5/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/BookExampleCode/T6/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/BookExampleCode/T7/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/BookExampleCode/T8/KnapsackTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Knapsack/BookExampleCode/T9/KnapsackTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "Kruskal": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/AIGenerated/T1/KruskalTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/AIGenerated/T2/KruskalTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/AIGenerated/T3/KruskalTest.java",
+     "distance": 6
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/AIGenerated/T4/KruskalTest.java",
+     "distance": 2
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/AIGenerated/T5/KruskalTest.java",
+     "distance": 9
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/AIGenerated/T6/KruskalTest.java",
+     "distance": 13
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/AIGenerated/T7/KruskalTest.java",
+     "distance": 24
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/AIGenerated/T8/KruskalTest.java",
+     "distance": 3
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/AIGenerated/T9/KruskalTest.java",
+     "distance": 24
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Kruskal/AIGenerated/T10/KruskalTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/BookExampleCode/T1/KruskalTest.java",
+     "distance": 13
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/BookExampleCode/T10/KruskalTest.java",
+     "distance": 11
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/BookExampleCode/T3/KruskalTest.java",
+     "distance": 4
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/BookExampleCode/T4/KruskalTest.java",
+     "distance": 20
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/BookExampleCode/T6/KruskalTest.java",
+     "distance": 6
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/BookExampleCode/T7/KruskalTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/BookExampleCode/T8/KruskalTest.java",
+     "distance": 1
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/BookExampleCode/T9/KruskalTest.java",
+     "distance": 6
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Kruskal/BookExampleCode/T2/KruskalTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/Kruskal/BookExampleCode/T5/KruskalTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/PromptOnly/T1/KruskalTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/PromptOnly/T10/KruskalTest.java",
+     "distance": 13
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/PromptOnly/T2/KruskalTest.java",
+     "distance": 11
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/PromptOnly/T3/KruskalTest.java",
+     "distance": 6
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/PromptOnly/T4/KruskalTest.java",
+     "distance": 9
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/PromptOnly/T5/KruskalTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/PromptOnly/T6/KruskalTest.java",
+     "distance": 13
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/PromptOnly/T7/KruskalTest.java",
+     "distance": 13
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/PromptOnly/T8/KruskalTest.java",
+     "distance": 7
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/Kruskal/PromptOnly/T9/KruskalTest.java",
+     "distance": 13
+    }
+   ]
+  },
+  "MergeSort": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/MergeSort/AIGenerated/T5/MergeSortTest.java",
+     "distance": 5
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/AIGenerated/T1/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/AIGenerated/T10/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/AIGenerated/T2/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/AIGenerated/T3/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/AIGenerated/T4/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/AIGenerated/T6/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/AIGenerated/T7/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/AIGenerated/T8/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/AIGenerated/T9/MergeSortTest.java",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/MergeSort/PromptOnly/T1/MergeSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/MergeSort/PromptOnly/T10/MergeSortTest.java",
+     "distance": 19
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/MergeSort/PromptOnly/T2/MergeSortTest.java",
+     "distance": 6
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/MergeSort/PromptOnly/T3/MergeSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/MergeSort/PromptOnly/T4/MergeSortTest.java",
+     "distance": 25
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/MergeSort/PromptOnly/T5/MergeSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/MergeSort/PromptOnly/T8/MergeSortTest.java",
+     "distance": 156
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/PromptOnly/T6/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/PromptOnly/T7/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/PromptOnly/T9/MergeSortTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/BookExampleCode/T1/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/BookExampleCode/T10/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/BookExampleCode/T2/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/BookExampleCode/T3/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/BookExampleCode/T4/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/BookExampleCode/T5/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/BookExampleCode/T6/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/BookExampleCode/T7/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/BookExampleCode/T8/MergeSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/MergeSort/BookExampleCode/T9/MergeSortTest.java",
+     "distance": 0
+    }
+   ]
+  },
+  "QuickSort": {
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/QuickSort/PromptOnly/T2/QuickSortTest.java",
+     "distance": 8
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/QuickSort/PromptOnly/T5/QuickSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/QuickSort/PromptOnly/T6/QuickSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/old/java/Copilot/QuickSort/PromptOnly/T9/QuickSortTest.java",
+     "distance": 15
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/PromptOnly/T1/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/PromptOnly/T10/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/PromptOnly/T3/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/PromptOnly/T4/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/PromptOnly/T7/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/PromptOnly/T8/QuickSortTest.java",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/AIGenerated/T1/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/AIGenerated/T10/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/AIGenerated/T2/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/AIGenerated/T3/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/AIGenerated/T4/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/AIGenerated/T5/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/AIGenerated/T6/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/AIGenerated/T7/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/AIGenerated/T8/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/AIGenerated/T9/QuickSortTest.java",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/BookExampleCode/T1/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/BookExampleCode/T10/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/BookExampleCode/T2/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/BookExampleCode/T3/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/BookExampleCode/T4/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/BookExampleCode/T5/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/BookExampleCode/T6/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/BookExampleCode/T7/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/BookExampleCode/T8/QuickSortTest.java",
+     "distance": 0
+    },
+    {
+     "path": "java_testgen_app/src/test/java/Copilot/QuickSort/BookExampleCode/T9/QuickSortTest.java",
+     "distance": 0
+    }
+   ]
+  }
+ }
+}

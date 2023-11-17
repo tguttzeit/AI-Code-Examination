@@ -1,0 +1,3078 @@
+{
+ "ChatGPT": {
+  "BellmanFord": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\AIGenerated\\T1\\bellman_ford_test.py",
+     "charCount": 1423
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\AIGenerated\\T10\\bellman_ford_test.py",
+     "charCount": 1186
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\AIGenerated\\T2\\bellman_ford_test.py",
+     "charCount": 1316
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\AIGenerated\\T3\\bellman_ford_test.py",
+     "charCount": 1338
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\AIGenerated\\T4\\bellman_ford_test.py",
+     "charCount": 1193
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\AIGenerated\\T5\\bellman_ford_test.py",
+     "charCount": 935
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\AIGenerated\\T6\\bellman_ford_test.py",
+     "charCount": 1291
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\AIGenerated\\T7\\bellman_ford_test.py",
+     "charCount": 1188
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\AIGenerated\\T8\\bellman_ford_test.py",
+     "charCount": 1245
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\AIGenerated\\T9\\bellman_ford_test.py",
+     "charCount": 1066
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\BookExampleCode\\T1\\bellman_ford_test.py",
+     "charCount": 900
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\BookExampleCode\\T10\\bellman_ford_test.py",
+     "charCount": 1191
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\BookExampleCode\\T2\\bellman_ford_test.py",
+     "charCount": 1311
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\BookExampleCode\\T3\\bellman_ford_test.py",
+     "charCount": 1295
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\BookExampleCode\\T4\\bellman_ford_test.py",
+     "charCount": 1130
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\BookExampleCode\\T5\\bellman_ford_test.py",
+     "charCount": 1259
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\BookExampleCode\\T6\\bellman_ford_test.py",
+     "charCount": 699
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\BookExampleCode\\T7\\bellman_ford_test.py",
+     "charCount": 1210
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\BookExampleCode\\T8\\bellman_ford_test.py",
+     "charCount": 1081
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\BookExampleCode\\T9\\bellman_ford_test.py",
+     "charCount": 1559
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\PromptOnly\\T1\\bellman_ford_test.py",
+     "charCount": 1154
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\PromptOnly\\T10\\bellman_ford_test.py",
+     "charCount": 1424
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\PromptOnly\\T2\\bellman_ford_test.py",
+     "charCount": 1155
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\PromptOnly\\T3\\bellman_ford_test.py",
+     "charCount": 1400
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\PromptOnly\\T4\\bellman_ford_test.py",
+     "charCount": 1353
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\PromptOnly\\T5\\bellman_ford_test.py",
+     "charCount": 1343
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\PromptOnly\\T6\\bellman_ford_test.py",
+     "charCount": 1301
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\PromptOnly\\T7\\bellman_ford_test.py",
+     "charCount": 1151
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\PromptOnly\\T8\\bellman_ford_test.py",
+     "charCount": 1425
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BellmanFord\\PromptOnly\\T9\\bellman_ford_test.py",
+     "charCount": 945
+    }
+   ]
+  },
+  "BinarySearch": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\AIGenerated\\T1\\binary_search_test.py",
+     "charCount": 702
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\AIGenerated\\T10\\binary_search_test.py",
+     "charCount": 837
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\AIGenerated\\T2\\binary_search_test.py",
+     "charCount": 754
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\AIGenerated\\T3\\binary_search_test.py",
+     "charCount": 545
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\AIGenerated\\T4\\binary_search_test.py",
+     "charCount": 531
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\AIGenerated\\T5\\binary_search_test.py",
+     "charCount": 833
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\AIGenerated\\T6\\binary_search_test.py",
+     "charCount": 904
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\AIGenerated\\T7\\binary_search_test.py",
+     "charCount": 752
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\AIGenerated\\T8\\binary_search_test.py",
+     "charCount": 644
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\AIGenerated\\T9\\binary_search_test.py",
+     "charCount": 697
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\BookExampleCode\\T1\\binary_search_test.py",
+     "charCount": 914
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\BookExampleCode\\T10\\binary_search_test.py",
+     "charCount": 660
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\BookExampleCode\\T2\\binary_search_test.py",
+     "charCount": 804
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\BookExampleCode\\T3\\binary_search_test.py",
+     "charCount": 804
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\BookExampleCode\\T4\\binary_search_test.py",
+     "charCount": 863
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\BookExampleCode\\T5\\binary_search_test.py",
+     "charCount": 814
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\BookExampleCode\\T6\\binary_search_test.py",
+     "charCount": 996
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\BookExampleCode\\T7\\binary_search_test.py",
+     "charCount": 671
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\BookExampleCode\\T8\\binary_search_test.py",
+     "charCount": 711
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\BookExampleCode\\T9\\binary_search_test.py",
+     "charCount": 881
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\PromptOnly\\T1\\binary_search_test.py",
+     "charCount": 806
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\PromptOnly\\T10\\binary_search_test.py",
+     "charCount": 793
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\PromptOnly\\T2\\binary_search_test.py",
+     "charCount": 655
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\PromptOnly\\T3\\binary_search_test.py",
+     "charCount": 629
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\PromptOnly\\T4\\binary_search_test.py",
+     "charCount": 618
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\PromptOnly\\T5\\binary_search_test.py",
+     "charCount": 640
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\PromptOnly\\T6\\binary_search_test.py",
+     "charCount": 454
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\PromptOnly\\T7\\binary_search_test.py",
+     "charCount": 471
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\PromptOnly\\T8\\binary_search_test.py",
+     "charCount": 656
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinarySearch\\PromptOnly\\T9\\binary_search_test.py",
+     "charCount": 773
+    }
+   ]
+  },
+  "BinaryToDecimal": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T1\\binary_to_decimal_test.py",
+     "charCount": 917
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T10\\binary_to_decimal_test.py",
+     "charCount": 623
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T2\\binary_to_decimal_test.py",
+     "charCount": 630
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T3\\binary_to_decimal_test.py",
+     "charCount": 906
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T4\\binary_to_decimal_test.py",
+     "charCount": 841
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T5\\binary_to_decimal_test.py",
+     "charCount": 875
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T6\\binary_to_decimal_test.py",
+     "charCount": 573
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T7\\binary_to_decimal_test.py",
+     "charCount": 848
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T8\\binary_to_decimal_test.py",
+     "charCount": 848
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T9\\binary_to_decimal_test.py",
+     "charCount": 838
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T1\\binary_to_decimal_test.py",
+     "charCount": 747
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T10\\binary_to_decimal_test.py",
+     "charCount": 903
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T2\\binary_to_decimal_test.py",
+     "charCount": 931
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T3\\binary_to_decimal_test.py",
+     "charCount": 729
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T4\\binary_to_decimal_test.py",
+     "charCount": 894
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T5\\binary_to_decimal_test.py",
+     "charCount": 857
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T6\\binary_to_decimal_test.py",
+     "charCount": 707
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T7\\binary_to_decimal_test.py",
+     "charCount": 941
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T8\\binary_to_decimal_test.py",
+     "charCount": 882
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T9\\binary_to_decimal_test.py",
+     "charCount": 957
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T1\\binary_to_decimal_test.py",
+     "charCount": 533
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T10\\binary_to_decimal_test.py",
+     "charCount": 857
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T2\\binary_to_decimal_test.py",
+     "charCount": 880
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T3\\binary_to_decimal_test.py",
+     "charCount": 597
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T4\\binary_to_decimal_test.py",
+     "charCount": 777
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T5\\binary_to_decimal_test.py",
+     "charCount": 805
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T6\\binary_to_decimal_test.py",
+     "charCount": 609
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T7\\binary_to_decimal_test.py",
+     "charCount": 739
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T8\\binary_to_decimal_test.py",
+     "charCount": 684
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T9\\binary_to_decimal_test.py",
+     "charCount": 632
+    }
+   ]
+  },
+  "BreadthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T1\\graph_test.py",
+     "charCount": 772
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T10\\graph_test.py",
+     "charCount": 740
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T2\\graph_test.py",
+     "charCount": 778
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T3\\graph_test.py",
+     "charCount": 722
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T4\\graph_test.py",
+     "charCount": 787
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T5\\graph_test.py",
+     "charCount": 847
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T6\\graph_test.py",
+     "charCount": 788
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T7\\graph_test.py",
+     "charCount": 836
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T8\\graph_test.py",
+     "charCount": 883
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T9\\graph_test.py",
+     "charCount": 788
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T1\\graph_test.py",
+     "charCount": 875
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T10\\graph_test.py",
+     "charCount": 848
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T2\\graph_test.py",
+     "charCount": 758
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T3\\graph_test.py",
+     "charCount": 819
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T4\\graph_test.py",
+     "charCount": 758
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T5\\graph_test.py",
+     "charCount": 883
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T6\\graph_test.py",
+     "charCount": 792
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T7\\graph_test.py",
+     "charCount": 622
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T8\\graph_test.py",
+     "charCount": 791
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T9\\graph_test.py",
+     "charCount": 802
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T1\\graph_test.py",
+     "charCount": 1540
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T10\\graph_test.py",
+     "charCount": 760
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T2\\graph_test.py",
+     "charCount": 1282
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T3\\graph_test.py",
+     "charCount": 909
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T4\\graph_test.py",
+     "charCount": 907
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T5\\graph_test.py",
+     "charCount": 927
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T6\\graph_test.py",
+     "charCount": 909
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T7\\graph_test.py",
+     "charCount": 935
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T8\\graph_test.py",
+     "charCount": 1093
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T9\\graph_test.py",
+     "charCount": 813
+    }
+   ]
+  },
+  "DepthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T1\\depth_first_search_test.py",
+     "charCount": 1097
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T10\\depth_first_search_test.py",
+     "charCount": 1155
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T2\\depth_first_search_test.py",
+     "charCount": 1168
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T3\\depth_first_search_test.py",
+     "charCount": 1168
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T4\\depth_first_search_test.py",
+     "charCount": 1154
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T5\\depth_first_search_test.py",
+     "charCount": 1107
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T6\\depth_first_search_test.py",
+     "charCount": 1154
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T7\\depth_first_search_test.py",
+     "charCount": 1154
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T8\\depth_first_search_test.py",
+     "charCount": 1196
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T9\\depth_first_search_test.py",
+     "charCount": 1119
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T1\\depth_first_search_test.py",
+     "charCount": 1111
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T10\\depth_first_search_test.py",
+     "charCount": 1159
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T2\\depth_first_search_test.py",
+     "charCount": 1107
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T3\\depth_first_search_test.py",
+     "charCount": 1200
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T4\\depth_first_search_test.py",
+     "charCount": 1111
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T5\\depth_first_search_test.py",
+     "charCount": 1123
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T6\\depth_first_search_test.py",
+     "charCount": 1111
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T7\\depth_first_search_test.py",
+     "charCount": 1161
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T8\\depth_first_search_test.py",
+     "charCount": 1125
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T9\\depth_first_search_test.py",
+     "charCount": 1111
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T1\\depth_first_search_test.py",
+     "charCount": 1276
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T10\\depth_first_search_test.py",
+     "charCount": 1292
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T2\\depth_first_search_test.py",
+     "charCount": 1184
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T3\\depth_first_search_test.py",
+     "charCount": 1254
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T4\\depth_first_search_test.py",
+     "charCount": 1096
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T5\\depth_first_search_test.py",
+     "charCount": 1455
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T6\\depth_first_search_test.py",
+     "charCount": 1277
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T7\\depth_first_search_test.py",
+     "charCount": 1179
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T8\\depth_first_search_test.py",
+     "charCount": 1057
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T9\\depth_first_search_test.py",
+     "charCount": 1195
+    }
+   ]
+  },
+  "Dijkstra": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\AIGenerated\\T1\\dijkstra_test.py",
+     "charCount": 1577
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\AIGenerated\\T10\\dijkstra_test.py",
+     "charCount": 1144
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\AIGenerated\\T2\\dijkstra_test.py",
+     "charCount": 1068
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\AIGenerated\\T3\\dijkstra_test.py",
+     "charCount": 850
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\AIGenerated\\T4\\dijkstra_test.py",
+     "charCount": 1403
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\AIGenerated\\T5\\dijkstra_test.py",
+     "charCount": 1298
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\AIGenerated\\T6\\dijkstra_test.py",
+     "charCount": 1178
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\AIGenerated\\T7\\dijkstra_test.py",
+     "charCount": 1492
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\AIGenerated\\T8\\dijkstra_test.py",
+     "charCount": 1116
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\AIGenerated\\T9\\dijkstra_test.py",
+     "charCount": 934
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\BookExampleCode\\T1\\dijkstra_test.py",
+     "charCount": 1295
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\BookExampleCode\\T10\\dijkstra_test.py",
+     "charCount": 1096
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\BookExampleCode\\T2\\dijkstra_test.py",
+     "charCount": 1385
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\BookExampleCode\\T3\\dijkstra_test.py",
+     "charCount": 1347
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\BookExampleCode\\T4\\dijkstra_test.py",
+     "charCount": 1110
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\BookExampleCode\\T5\\dijkstra_test.py",
+     "charCount": 1095
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\BookExampleCode\\T6\\dijkstra_test.py",
+     "charCount": 1236
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\BookExampleCode\\T7\\dijkstra_test.py",
+     "charCount": 1159
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\BookExampleCode\\T8\\dijkstra_test.py",
+     "charCount": 1413
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\BookExampleCode\\T9\\dijkstra_test.py",
+     "charCount": 1213
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\PromptOnly\\T1\\dijkstra_test.py",
+     "charCount": 1349
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\PromptOnly\\T10\\dijkstra_test.py",
+     "charCount": 1186
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\PromptOnly\\T2\\dijkstra_test.py",
+     "charCount": 1165
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\PromptOnly\\T3\\dijkstra_test.py",
+     "charCount": 1282
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\PromptOnly\\T4\\dijkstra_test.py",
+     "charCount": 1095
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\PromptOnly\\T5\\dijkstra_test.py",
+     "charCount": 1311
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\PromptOnly\\T6\\dijkstra_test.py",
+     "charCount": 1007
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\PromptOnly\\T7\\dijkstra_test.py",
+     "charCount": 1010
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\PromptOnly\\T8\\dijkstra_test.py",
+     "charCount": 1086
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Dijkstra\\PromptOnly\\T9\\dijkstra_test.py",
+     "charCount": 1429
+    }
+   ]
+  },
+  "EgyptianFractions": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\AIGenerated\\T1\\egyptian_fractions_test.py",
+     "charCount": 462
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\AIGenerated\\T10\\egyptian_fractions_test.py",
+     "charCount": 726
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\AIGenerated\\T2\\egyptian_fractions_test.py",
+     "charCount": 465
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\AIGenerated\\T3\\egyptian_fractions_test.py",
+     "charCount": 470
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\AIGenerated\\T4\\egyptian_fractions_test.py",
+     "charCount": 463
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\AIGenerated\\T5\\egyptian_fractions_test.py",
+     "charCount": 687
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\AIGenerated\\T6\\egyptian_fractions_test.py",
+     "charCount": 505
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\AIGenerated\\T7\\egyptian_fractions_test.py",
+     "charCount": 473
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\AIGenerated\\T8\\egyptian_fractions_test.py",
+     "charCount": 730
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\AIGenerated\\T9\\egyptian_fractions_test.py",
+     "charCount": 461
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T1\\egyptian_fractions_test.py",
+     "charCount": 461
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T10\\egyptian_fractions_test.py",
+     "charCount": 461
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T2\\egyptian_fractions_test.py",
+     "charCount": 665
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T3\\egyptian_fractions_test.py",
+     "charCount": 496
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T4\\egyptian_fractions_test.py",
+     "charCount": 475
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T5\\egyptian_fractions_test.py",
+     "charCount": 459
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T6\\egyptian_fractions_test.py",
+     "charCount": 454
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T7\\egyptian_fractions_test.py",
+     "charCount": 515
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T8\\egyptian_fractions_test.py",
+     "charCount": 592
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T9\\egyptian_fractions_test.py",
+     "charCount": 594
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\PromptOnly\\T1\\egyptian_fractions_test.py",
+     "charCount": 595
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\PromptOnly\\T10\\egyptian_fractions_test.py",
+     "charCount": 487
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\PromptOnly\\T2\\egyptian_fractions_test.py",
+     "charCount": 555
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\PromptOnly\\T3\\egyptian_fractions_test.py",
+     "charCount": 477
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\PromptOnly\\T4\\egyptian_fractions_test.py",
+     "charCount": 477
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\PromptOnly\\T5\\egyptian_fractions_test.py",
+     "charCount": 517
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\PromptOnly\\T6\\egyptian_fractions_test.py",
+     "charCount": 899
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\PromptOnly\\T7\\egyptian_fractions_test.py",
+     "charCount": 842
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\PromptOnly\\T8\\egyptian_fractions_test.py",
+     "charCount": 658
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\EgyptianFractions\\PromptOnly\\T9\\egyptian_fractions_test.py",
+     "charCount": 548
+    }
+   ]
+  },
+  "FloydWarshall": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\AIGenerated\\T1\\floyd_warshall_test.py",
+     "charCount": 1134
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\AIGenerated\\T10\\floyd_warshall_test.py",
+     "charCount": 1201
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\AIGenerated\\T2\\floyd_warshall_test.py",
+     "charCount": 1243
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\AIGenerated\\T3\\floyd_warshall_test.py",
+     "charCount": 903
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\AIGenerated\\T4\\floyd_warshall_test.py",
+     "charCount": 1032
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\AIGenerated\\T5\\floyd_warshall_test.py",
+     "charCount": 1477
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\AIGenerated\\T6\\floyd_warshall_test.py",
+     "charCount": 1274
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\AIGenerated\\T7\\floyd_warshall_test.py",
+     "charCount": 1053
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\AIGenerated\\T8\\floyd_warshall_test.py",
+     "charCount": 1196
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\AIGenerated\\T9\\floyd_warshall_test.py",
+     "charCount": 1139
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\BookExampleCode\\T1\\floyd_warshall_test.py",
+     "charCount": 1809
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\BookExampleCode\\T10\\floyd_warshall_test.py",
+     "charCount": 1370
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\BookExampleCode\\T2\\floyd_warshall_test.py",
+     "charCount": 1166
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\BookExampleCode\\T3\\floyd_warshall_test.py",
+     "charCount": 1337
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\BookExampleCode\\T4\\floyd_warshall_test.py",
+     "charCount": 1288
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\BookExampleCode\\T5\\floyd_warshall_test.py",
+     "charCount": 1596
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\BookExampleCode\\T6\\floyd_warshall_test.py",
+     "charCount": 1334
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\BookExampleCode\\T7\\floyd_warshall_test.py",
+     "charCount": 1242
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\BookExampleCode\\T8\\floyd_warshall_test.py",
+     "charCount": 1210
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\BookExampleCode\\T9\\floyd_warshall_test.py",
+     "charCount": 1794
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\PromptOnly\\T1\\floyd_warshall_test.py",
+     "charCount": 1080
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\PromptOnly\\T10\\floyd_warshall_test.py",
+     "charCount": 1116
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\PromptOnly\\T2\\floyd_warshall_test.py",
+     "charCount": 1200
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\PromptOnly\\T3\\floyd_warshall_test.py",
+     "charCount": 1156
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\PromptOnly\\T4\\floyd_warshall_test.py",
+     "charCount": 1532
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\PromptOnly\\T5\\floyd_warshall_test.py",
+     "charCount": 1136
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\PromptOnly\\T6\\floyd_warshall_test.py",
+     "charCount": 1525
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\PromptOnly\\T7\\floyd_warshall_test.py",
+     "charCount": 1013
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\PromptOnly\\T8\\floyd_warshall_test.py",
+     "charCount": 1078
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\FloydWarshall\\PromptOnly\\T9\\floyd_warshall_test.py",
+     "charCount": 1166
+    }
+   ]
+  },
+  "Knapsack": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\AIGenerated\\T1\\knapsack_test.py",
+     "charCount": 791
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\AIGenerated\\T10\\knapsack_test.py",
+     "charCount": 823
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\AIGenerated\\T2\\knapsack_test.py",
+     "charCount": 678
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\AIGenerated\\T3\\knapsack_test.py",
+     "charCount": 624
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\AIGenerated\\T4\\knapsack_test.py",
+     "charCount": 718
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\AIGenerated\\T5\\knapsack_test.py",
+     "charCount": 608
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\AIGenerated\\T6\\knapsack_test.py",
+     "charCount": 959
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\AIGenerated\\T7\\knapsack_test.py",
+     "charCount": 723
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\AIGenerated\\T8\\knapsack_test.py",
+     "charCount": 593
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\AIGenerated\\T9\\knapsack_test.py",
+     "charCount": 659
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\BookExampleCode\\T1\\knapsack_test.py",
+     "charCount": 633
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\BookExampleCode\\T10\\knapsack_test.py",
+     "charCount": 758
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\BookExampleCode\\T2\\knapsack_test.py",
+     "charCount": 774
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\BookExampleCode\\T3\\knapsack_test.py",
+     "charCount": 766
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\BookExampleCode\\T4\\knapsack_test.py",
+     "charCount": 747
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\BookExampleCode\\T5\\knapsack_test.py",
+     "charCount": 605
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\BookExampleCode\\T6\\knapsack_test.py",
+     "charCount": 569
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\BookExampleCode\\T7\\knapsack_test.py",
+     "charCount": 668
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\BookExampleCode\\T8\\knapsack_test.py",
+     "charCount": 741
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\BookExampleCode\\T9\\knapsack_test.py",
+     "charCount": 707
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\PromptOnly\\T1\\knapsack_test.py",
+     "charCount": 724
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\PromptOnly\\T10\\knapsack_test.py",
+     "charCount": 708
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\PromptOnly\\T2\\knapsack_test.py",
+     "charCount": 802
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\PromptOnly\\T3\\knapsack_test.py",
+     "charCount": 573
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\PromptOnly\\T4\\knapsack_test.py",
+     "charCount": 786
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\PromptOnly\\T5\\knapsack_test.py",
+     "charCount": 519
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\PromptOnly\\T6\\knapsack_test.py",
+     "charCount": 488
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\PromptOnly\\T7\\knapsack_test.py",
+     "charCount": 594
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\PromptOnly\\T8\\knapsack_test.py",
+     "charCount": 609
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Knapsack\\PromptOnly\\T9\\knapsack_test.py",
+     "charCount": 696
+    }
+   ]
+  },
+  "Kruskal": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\AIGenerated\\T1\\kruskal_test.py",
+     "charCount": 1371
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\AIGenerated\\T10\\kruskal_test.py",
+     "charCount": 1125
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\AIGenerated\\T2\\kruskal_test.py",
+     "charCount": 1311
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\AIGenerated\\T3\\kruskal_test.py",
+     "charCount": 1552
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\AIGenerated\\T4\\kruskal_test.py",
+     "charCount": 1469
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\AIGenerated\\T5\\kruskal_test.py",
+     "charCount": 1338
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\AIGenerated\\T6\\kruskal_test.py",
+     "charCount": 1125
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\AIGenerated\\T7\\kruskal_test.py",
+     "charCount": 1433
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\AIGenerated\\T8\\kruskal_test.py",
+     "charCount": 1369
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\AIGenerated\\T9\\kruskal_test.py",
+     "charCount": 1385
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\BookExampleCode\\T1\\kruskal_test.py",
+     "charCount": 1284
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\BookExampleCode\\T10\\kruskal_test.py",
+     "charCount": 1562
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\BookExampleCode\\T2\\kruskal_test.py",
+     "charCount": 1374
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\BookExampleCode\\T3\\kruskal_test.py",
+     "charCount": 1498
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\BookExampleCode\\T4\\kruskal_test.py",
+     "charCount": 1344
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\BookExampleCode\\T5\\kruskal_test.py",
+     "charCount": 1105
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\BookExampleCode\\T6\\kruskal_test.py",
+     "charCount": 1282
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\BookExampleCode\\T7\\kruskal_test.py",
+     "charCount": 1139
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\BookExampleCode\\T8\\kruskal_test.py",
+     "charCount": 1205
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\BookExampleCode\\T9\\kruskal_test.py",
+     "charCount": 1297
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\PromptOnly\\T1\\kruskal_test.py",
+     "charCount": 1145
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\PromptOnly\\T10\\kruskal_test.py",
+     "charCount": 1279
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\PromptOnly\\T2\\kruskal_test.py",
+     "charCount": 913
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\PromptOnly\\T3\\kruskal_test.py",
+     "charCount": 1103
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\PromptOnly\\T4\\kruskal_test.py",
+     "charCount": 1097
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\PromptOnly\\T5\\kruskal_test.py",
+     "charCount": 1131
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\PromptOnly\\T6\\kruskal_test.py",
+     "charCount": 1008
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\PromptOnly\\T7\\kruskal_test.py",
+     "charCount": 926
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\PromptOnly\\T8\\kruskal_test.py",
+     "charCount": 977
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\Kruskal\\PromptOnly\\T9\\kruskal_test.py",
+     "charCount": 1147
+    }
+   ]
+  },
+  "MergeSort": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\AIGenerated\\T1\\merge_sort_test.py",
+     "charCount": 541
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\AIGenerated\\T10\\merge_sort_test.py",
+     "charCount": 691
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\AIGenerated\\T2\\merge_sort_test.py",
+     "charCount": 725
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\AIGenerated\\T3\\merge_sort_test.py",
+     "charCount": 690
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\AIGenerated\\T4\\merge_sort_test.py",
+     "charCount": 760
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\AIGenerated\\T5\\merge_sort_test.py",
+     "charCount": 870
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\AIGenerated\\T6\\merge_sort_test.py",
+     "charCount": 756
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\AIGenerated\\T7\\merge_sort_test.py",
+     "charCount": 690
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\AIGenerated\\T8\\merge_sort_test.py",
+     "charCount": 625
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\AIGenerated\\T9\\merge_sort_test.py",
+     "charCount": 696
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\BookExampleCode\\T1\\merge_sort_test.py",
+     "charCount": 910
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\BookExampleCode\\T10\\merge_sort_test.py",
+     "charCount": 791
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\BookExampleCode\\T2\\merge_sort_test.py",
+     "charCount": 767
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\BookExampleCode\\T3\\merge_sort_test.py",
+     "charCount": 732
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\BookExampleCode\\T4\\merge_sort_test.py",
+     "charCount": 842
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\BookExampleCode\\T5\\merge_sort_test.py",
+     "charCount": 752
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\BookExampleCode\\T6\\merge_sort_test.py",
+     "charCount": 752
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\BookExampleCode\\T7\\merge_sort_test.py",
+     "charCount": 700
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\BookExampleCode\\T8\\merge_sort_test.py",
+     "charCount": 758
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\BookExampleCode\\T9\\merge_sort_test.py",
+     "charCount": 842
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\PromptOnly\\T1\\merge_sort_test.py",
+     "charCount": 534
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\PromptOnly\\T10\\merge_sort_test.py",
+     "charCount": 551
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\PromptOnly\\T2\\merge_sort_test.py",
+     "charCount": 697
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\PromptOnly\\T3\\merge_sort_test.py",
+     "charCount": 589
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\PromptOnly\\T4\\merge_sort_test.py",
+     "charCount": 901
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\PromptOnly\\T5\\merge_sort_test.py",
+     "charCount": 526
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\PromptOnly\\T6\\merge_sort_test.py",
+     "charCount": 550
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\PromptOnly\\T7\\merge_sort_test.py",
+     "charCount": 478
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\PromptOnly\\T8\\merge_sort_test.py",
+     "charCount": 621
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\MergeSort\\PromptOnly\\T9\\merge_sort_test.py",
+     "charCount": 436
+    }
+   ]
+  },
+  "QuickSort": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\AIGenerated\\T1\\quick_sort_test.py",
+     "charCount": 601
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\AIGenerated\\T10\\quick_sort_test.py",
+     "charCount": 793
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\AIGenerated\\T2\\quick_sort_test.py",
+     "charCount": 571
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\AIGenerated\\T3\\quick_sort_test.py",
+     "charCount": 811
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\AIGenerated\\T4\\quick_sort_test.py",
+     "charCount": 761
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\AIGenerated\\T5\\quick_sort_test.py",
+     "charCount": 890
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\AIGenerated\\T6\\quick_sort_test.py",
+     "charCount": 865
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\AIGenerated\\T7\\quick_sort_test.py",
+     "charCount": 716
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\AIGenerated\\T8\\quick_sort_test.py",
+     "charCount": 668
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\AIGenerated\\T9\\quick_sort_test.py",
+     "charCount": 668
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\BookExampleCode\\T1\\quick_sort_test.py",
+     "charCount": 859
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\BookExampleCode\\T10\\quick_sort_test.py",
+     "charCount": 741
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\BookExampleCode\\T2\\quick_sort_test.py",
+     "charCount": 672
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\BookExampleCode\\T3\\quick_sort_test.py",
+     "charCount": 726
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\BookExampleCode\\T4\\quick_sort_test.py",
+     "charCount": 720
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\BookExampleCode\\T5\\quick_sort_test.py",
+     "charCount": 714
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\BookExampleCode\\T6\\quick_sort_test.py",
+     "charCount": 715
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\BookExampleCode\\T7\\quick_sort_test.py",
+     "charCount": 828
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\BookExampleCode\\T8\\quick_sort_test.py",
+     "charCount": 706
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\BookExampleCode\\T9\\quick_sort_test.py",
+     "charCount": 720
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\PromptOnly\\T1\\quick_sort_test.py",
+     "charCount": 653
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\PromptOnly\\T10\\quick_sort_test.py",
+     "charCount": 710
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\PromptOnly\\T2\\quick_sort_test.py",
+     "charCount": 629
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\PromptOnly\\T3\\quick_sort_test.py",
+     "charCount": 624
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\PromptOnly\\T4\\quick_sort_test.py",
+     "charCount": 609
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\PromptOnly\\T5\\quick_sort_test.py",
+     "charCount": 463
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\PromptOnly\\T6\\quick_sort_test.py",
+     "charCount": 421
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\PromptOnly\\T7\\quick_sort_test.py",
+     "charCount": 724
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\PromptOnly\\T8\\quick_sort_test.py",
+     "charCount": 739
+    },
+    {
+     "path": "py_testgen_app\\test\\ChatGPT\\QuickSort\\PromptOnly\\T9\\quick_sort_test.py",
+     "charCount": 629
+    }
+   ]
+  }
+ },
+ "Copilot": {
+  "BellmanFord": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\AIGenerated\\T1\\bellman_ford_test.py",
+     "charCount": 1296
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\AIGenerated\\T10\\bellman_ford_test.py",
+     "charCount": 696
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\AIGenerated\\T2\\bellman_ford_test.py",
+     "charCount": 705
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\AIGenerated\\T3\\bellman_ford_test.py",
+     "charCount": 1040
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\AIGenerated\\T4\\bellman_ford_test.py",
+     "charCount": 1063
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\AIGenerated\\T5\\bellman_ford_test.py",
+     "charCount": 1109
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\AIGenerated\\T6\\bellman_ford_test.py",
+     "charCount": 1116
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\AIGenerated\\T7\\bellman_ford_test.py",
+     "charCount": 1047
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\AIGenerated\\T8\\bellman_ford_test.py",
+     "charCount": 1070
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\AIGenerated\\T9\\bellman_ford_test.py",
+     "charCount": 1066
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\BookExampleCode\\T1\\bellman_ford_test.py",
+     "charCount": 783
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\BookExampleCode\\T10\\bellman_ford_test.py",
+     "charCount": 762
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\BookExampleCode\\T2\\bellman_ford_test.py",
+     "charCount": 759
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\BookExampleCode\\T3\\bellman_ford_test.py",
+     "charCount": 686
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\BookExampleCode\\T4\\bellman_ford_test.py",
+     "charCount": 686
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\BookExampleCode\\T5\\bellman_ford_test.py",
+     "charCount": 1097
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\BookExampleCode\\T6\\bellman_ford_test.py",
+     "charCount": 699
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\BookExampleCode\\T7\\bellman_ford_test.py",
+     "charCount": 695
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\BookExampleCode\\T8\\bellman_ford_test.py",
+     "charCount": 1264
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\BookExampleCode\\T9\\bellman_ford_test.py",
+     "charCount": 1061
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\PromptOnly\\T1\\bellman_ford_test.py",
+     "charCount": 1082
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\PromptOnly\\T10\\bellman_ford_test.py",
+     "charCount": 1087
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\PromptOnly\\T2\\bellman_ford_test.py",
+     "charCount": 1103
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\PromptOnly\\T3\\bellman_ford_test.py",
+     "charCount": 1092
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\PromptOnly\\T4\\bellman_ford_test.py",
+     "charCount": 1088
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\PromptOnly\\T5\\bellman_ford_test.py",
+     "charCount": 1205
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\PromptOnly\\T6\\bellman_ford_test.py",
+     "charCount": 1050
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\PromptOnly\\T7\\bellman_ford_test.py",
+     "charCount": 1100
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\PromptOnly\\T8\\bellman_ford_test.py",
+     "charCount": 1072
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BellmanFord\\PromptOnly\\T9\\bellman_ford_test.py",
+     "charCount": 1089
+    }
+   ]
+  },
+  "BinarySearch": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\AIGenerated\\T1\\binary_search_test.py",
+     "charCount": 551
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\AIGenerated\\T10\\binary_search_test.py",
+     "charCount": 419
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\AIGenerated\\T2\\binary_search_test.py",
+     "charCount": 1067
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\AIGenerated\\T3\\binary_search_test.py",
+     "charCount": 1177
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\AIGenerated\\T4\\binary_search_test.py",
+     "charCount": 422
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\AIGenerated\\T5\\binary_search_test.py",
+     "charCount": 855
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\AIGenerated\\T6\\binary_search_test.py",
+     "charCount": 924
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\AIGenerated\\T7\\binary_search_test.py",
+     "charCount": 1444
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\AIGenerated\\T8\\binary_search_test.py",
+     "charCount": 1182
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\AIGenerated\\T9\\binary_search_test.py",
+     "charCount": 177
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\BookExampleCode\\T1\\binary_search_test.py",
+     "charCount": 425
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\BookExampleCode\\T10\\binary_search_test.py",
+     "charCount": 377
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\BookExampleCode\\T2\\binary_search_test.py",
+     "charCount": 153
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\BookExampleCode\\T3\\binary_search_test.py",
+     "charCount": 534
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\BookExampleCode\\T4\\binary_search_test.py",
+     "charCount": 641
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\BookExampleCode\\T5\\binary_search_test.py",
+     "charCount": 425
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\BookExampleCode\\T6\\binary_search_test.py",
+     "charCount": 596
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\BookExampleCode\\T7\\binary_search_test.py",
+     "charCount": 505
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\BookExampleCode\\T8\\binary_search_test.py",
+     "charCount": 1490
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\BookExampleCode\\T9\\binary_search_test.py",
+     "charCount": 1134
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\PromptOnly\\T1\\binary_search_test.py",
+     "charCount": 1980
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\PromptOnly\\T10\\binary_search_test.py",
+     "charCount": 806
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\PromptOnly\\T2\\binary_search_test.py",
+     "charCount": 945
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\PromptOnly\\T3\\binary_search_test.py",
+     "charCount": 1131
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\PromptOnly\\T4\\binary_search_test.py",
+     "charCount": 1591
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\PromptOnly\\T5\\binary_search_test.py",
+     "charCount": 888
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\PromptOnly\\T6\\binary_search_test.py",
+     "charCount": 983
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\PromptOnly\\T7\\binary_search_test.py",
+     "charCount": 842
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\PromptOnly\\T8\\binary_search_test.py",
+     "charCount": 999
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinarySearch\\PromptOnly\\T9\\binary_search_test.py",
+     "charCount": 426
+    }
+   ]
+  },
+  "BinaryToDecimal": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\AIGenerated\\T1\\binary_to_decimal_test.py",
+     "charCount": 379
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\AIGenerated\\T10\\binary_to_decimal_test.py",
+     "charCount": 374
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\AIGenerated\\T2\\binary_to_decimal_test.py",
+     "charCount": 2142
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\AIGenerated\\T3\\binary_to_decimal_test.py",
+     "charCount": 613
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\AIGenerated\\T4\\binary_to_decimal_test.py",
+     "charCount": 374
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\AIGenerated\\T5\\binary_to_decimal_test.py",
+     "charCount": 2150
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\AIGenerated\\T6\\binary_to_decimal_test.py",
+     "charCount": 2151
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\AIGenerated\\T7\\binary_to_decimal_test.py",
+     "charCount": 393
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\AIGenerated\\T8\\binary_to_decimal_test.py",
+     "charCount": 1891
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\AIGenerated\\T9\\binary_to_decimal_test.py",
+     "charCount": 2150
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\BookExampleCode\\T1\\binary_to_decimal_test.py",
+     "charCount": 2081
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\BookExampleCode\\T10\\binary_to_decimal_test.py",
+     "charCount": 447
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\BookExampleCode\\T2\\binary_to_decimal_test.py",
+     "charCount": 1788
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\BookExampleCode\\T3\\binary_to_decimal_test.py",
+     "charCount": 2081
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\BookExampleCode\\T4\\binary_to_decimal_test.py",
+     "charCount": 2052
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\BookExampleCode\\T5\\binary_to_decimal_test.py",
+     "charCount": 882
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\BookExampleCode\\T6\\binary_to_decimal_test.py",
+     "charCount": 1037
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\BookExampleCode\\T7\\binary_to_decimal_test.py",
+     "charCount": 569
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\BookExampleCode\\T8\\binary_to_decimal_test.py",
+     "charCount": 2218
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\BookExampleCode\\T9\\binary_to_decimal_test.py",
+     "charCount": 486
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\PromptOnly\\T1\\binary_to_decimal_test.py",
+     "charCount": 660
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\PromptOnly\\T10\\binary_to_decimal_test.py",
+     "charCount": 473
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\PromptOnly\\T2\\binary_to_decimal_test.py",
+     "charCount": 504
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\PromptOnly\\T3\\binary_to_decimal_test.py",
+     "charCount": 1896
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\PromptOnly\\T4\\binary_to_decimal_test.py",
+     "charCount": 797
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\PromptOnly\\T5\\binary_to_decimal_test.py",
+     "charCount": 308
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\PromptOnly\\T6\\binary_to_decimal_test.py",
+     "charCount": 161
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\PromptOnly\\T7\\binary_to_decimal_test.py",
+     "charCount": 873
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\PromptOnly\\T8\\binary_to_decimal_test.py",
+     "charCount": 2120
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BinaryToDecimal\\PromptOnly\\T9\\binary_to_decimal_test.py",
+     "charCount": 556
+    }
+   ]
+  },
+  "BreadthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\AIGenerated\\T1\\graph_test.py",
+     "charCount": 1162
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\AIGenerated\\T10\\graph_test.py",
+     "charCount": 655
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\AIGenerated\\T2\\graph_test.py",
+     "charCount": 1206
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\AIGenerated\\T3\\graph_test.py",
+     "charCount": 856
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\AIGenerated\\T4\\graph_test.py",
+     "charCount": 1211
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\AIGenerated\\T5\\graph_test.py",
+     "charCount": 1211
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\AIGenerated\\T6\\graph_test.py",
+     "charCount": 1046
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\AIGenerated\\T7\\graph_test.py",
+     "charCount": 654
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\AIGenerated\\T8\\graph_test.py",
+     "charCount": 1102
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\AIGenerated\\T9\\graph_test.py",
+     "charCount": 1296
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T1\\graph_test.py",
+     "charCount": 660
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T10\\graph_test.py",
+     "charCount": 702
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T2\\graph_test.py",
+     "charCount": 1212
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T3\\graph_test.py",
+     "charCount": 662
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T4\\graph_test.py",
+     "charCount": 1161
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T5\\graph_test.py",
+     "charCount": 1035
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T6\\graph_test.py",
+     "charCount": 650
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T7\\graph_test.py",
+     "charCount": 1212
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T8\\graph_test.py",
+     "charCount": 658
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T9\\graph_test.py",
+     "charCount": 1204
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\PromptOnly\\T1\\graph_test.py",
+     "charCount": 1352
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\PromptOnly\\T10\\graph_test.py",
+     "charCount": 1217
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\PromptOnly\\T2\\graph_test.py",
+     "charCount": 657
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\PromptOnly\\T3\\graph_test.py",
+     "charCount": 882
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\PromptOnly\\T4\\graph_test.py",
+     "charCount": 1099
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\PromptOnly\\T5\\graph_test.py",
+     "charCount": 1267
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\PromptOnly\\T6\\graph_test.py",
+     "charCount": 1300
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\PromptOnly\\T7\\graph_test.py",
+     "charCount": 1109
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\PromptOnly\\T8\\graph_test.py",
+     "charCount": 450
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\BreadthFirstSearch\\PromptOnly\\T9\\graph_test.py",
+     "charCount": 1223
+    }
+   ]
+  },
+  "DepthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\AIGenerated\\T1\\depth_first_search_test.py",
+     "charCount": 1327
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\AIGenerated\\T10\\depth_first_search_test.py",
+     "charCount": 1018
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\AIGenerated\\T2\\depth_first_search_test.py",
+     "charCount": 1205
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\AIGenerated\\T3\\depth_first_search_test.py",
+     "charCount": 1017
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\AIGenerated\\T4\\depth_first_search_test.py",
+     "charCount": 1205
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\AIGenerated\\T5\\depth_first_search_test.py",
+     "charCount": 1013
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\AIGenerated\\T6\\depth_first_search_test.py",
+     "charCount": 1017
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\AIGenerated\\T7\\depth_first_search_test.py",
+     "charCount": 1005
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\AIGenerated\\T8\\depth_first_search_test.py",
+     "charCount": 1005
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\AIGenerated\\T9\\depth_first_search_test.py",
+     "charCount": 965
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\BookExampleCode\\T1\\depth_first_search_test.py",
+     "charCount": 1101
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\BookExampleCode\\T10\\depth_first_search_test.py",
+     "charCount": 1018
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\BookExampleCode\\T2\\depth_first_search_test.py",
+     "charCount": 1021
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\BookExampleCode\\T3\\depth_first_search_test.py",
+     "charCount": 1021
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\BookExampleCode\\T4\\depth_first_search_test.py",
+     "charCount": 1011
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\BookExampleCode\\T5\\depth_first_search_test.py",
+     "charCount": 1069
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\BookExampleCode\\T6\\depth_first_search_test.py",
+     "charCount": 1051
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\BookExampleCode\\T7\\depth_first_search_test.py",
+     "charCount": 1331
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\BookExampleCode\\T8\\depth_first_search_test.py",
+     "charCount": 1209
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\BookExampleCode\\T9\\depth_first_search_test.py",
+     "charCount": 1069
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\PromptOnly\\T1\\depth_first_search_test.py",
+     "charCount": 1350
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\PromptOnly\\T10\\depth_first_search_test.py",
+     "charCount": 1351
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\PromptOnly\\T2\\depth_first_search_test.py",
+     "charCount": 1058
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\PromptOnly\\T3\\depth_first_search_test.py",
+     "charCount": 1524
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\PromptOnly\\T4\\depth_first_search_test.py",
+     "charCount": 1248
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\PromptOnly\\T5\\depth_first_search_test.py",
+     "charCount": 1361
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\PromptOnly\\T6\\depth_first_search_test.py",
+     "charCount": 1350
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\PromptOnly\\T7\\depth_first_search_test.py",
+     "charCount": 1060
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\PromptOnly\\T8\\depth_first_search_test.py",
+     "charCount": 1401
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\DepthFirstSearch\\PromptOnly\\T9\\depth_first_search_test.py",
+     "charCount": 1509
+    }
+   ]
+  },
+  "Dijkstra": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\AIGenerated\\T1\\dijkstra_test.py",
+     "charCount": 1061
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\AIGenerated\\T10\\dijkstra_test.py",
+     "charCount": 790
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\AIGenerated\\T2\\dijkstra_test.py",
+     "charCount": 720
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\AIGenerated\\T3\\dijkstra_test.py",
+     "charCount": 1124
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\AIGenerated\\T4\\dijkstra_test.py",
+     "charCount": 1106
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\AIGenerated\\T5\\dijkstra_test.py",
+     "charCount": 1174
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\AIGenerated\\T6\\dijkstra_test.py",
+     "charCount": 779
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\AIGenerated\\T7\\dijkstra_test.py",
+     "charCount": 1114
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\AIGenerated\\T8\\dijkstra_test.py",
+     "charCount": 1139
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\AIGenerated\\T9\\dijkstra_test.py",
+     "charCount": 1060
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\BookExampleCode\\T1\\dijkstra_test.py",
+     "charCount": 1159
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\BookExampleCode\\T10\\dijkstra_test.py",
+     "charCount": 1064
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\BookExampleCode\\T2\\dijkstra_test.py",
+     "charCount": 724
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\BookExampleCode\\T3\\dijkstra_test.py",
+     "charCount": 1292
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\BookExampleCode\\T4\\dijkstra_test.py",
+     "charCount": 1047
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\BookExampleCode\\T5\\dijkstra_test.py",
+     "charCount": 910
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\BookExampleCode\\T6\\dijkstra_test.py",
+     "charCount": 775
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\BookExampleCode\\T7\\dijkstra_test.py",
+     "charCount": 1062
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\BookExampleCode\\T8\\dijkstra_test.py",
+     "charCount": 1148
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\BookExampleCode\\T9\\dijkstra_test.py",
+     "charCount": 1120
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\PromptOnly\\T1\\dijkstra_test.py",
+     "charCount": 1567
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\PromptOnly\\T10\\dijkstra_test.py",
+     "charCount": 1088
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\PromptOnly\\T2\\dijkstra_test.py",
+     "charCount": 971
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\PromptOnly\\T3\\dijkstra_test.py",
+     "charCount": 1154
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\PromptOnly\\T4\\dijkstra_test.py",
+     "charCount": 945
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\PromptOnly\\T5\\dijkstra_test.py",
+     "charCount": 1236
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\PromptOnly\\T6\\dijkstra_test.py",
+     "charCount": 1076
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\PromptOnly\\T7\\dijkstra_test.py",
+     "charCount": 1056
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\PromptOnly\\T8\\dijkstra_test.py",
+     "charCount": 1133
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Dijkstra\\PromptOnly\\T9\\dijkstra_test.py",
+     "charCount": 1225
+    }
+   ]
+  },
+  "EgyptianFractions": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\AIGenerated\\T1\\egyptian_fractions_test.py",
+     "charCount": 365
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\AIGenerated\\T10\\egyptian_fractions_test.py",
+     "charCount": 525
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\AIGenerated\\T2\\egyptian_fractions_test.py",
+     "charCount": 385
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\AIGenerated\\T3\\egyptian_fractions_test.py",
+     "charCount": 547
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\AIGenerated\\T4\\egyptian_fractions_test.py",
+     "charCount": 439
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\AIGenerated\\T5\\egyptian_fractions_test.py",
+     "charCount": 404
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\AIGenerated\\T6\\egyptian_fractions_test.py",
+     "charCount": 336
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\AIGenerated\\T7\\egyptian_fractions_test.py",
+     "charCount": 467
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\AIGenerated\\T8\\egyptian_fractions_test.py",
+     "charCount": 517
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\AIGenerated\\T9\\egyptian_fractions_test.py",
+     "charCount": 459
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\BookExampleCode\\T1\\egyptian_fractions_test.py",
+     "charCount": 539
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\BookExampleCode\\T10\\egyptian_fractions_test.py",
+     "charCount": 588
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\BookExampleCode\\T2\\egyptian_fractions_test.py",
+     "charCount": 580
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\BookExampleCode\\T3\\egyptian_fractions_test.py",
+     "charCount": 432
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\BookExampleCode\\T4\\egyptian_fractions_test.py",
+     "charCount": 808
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\BookExampleCode\\T5\\egyptian_fractions_test.py",
+     "charCount": 574
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\BookExampleCode\\T6\\egyptian_fractions_test.py",
+     "charCount": 506
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\BookExampleCode\\T7\\egyptian_fractions_test.py",
+     "charCount": 1370
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\BookExampleCode\\T8\\egyptian_fractions_test.py",
+     "charCount": 1089
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\BookExampleCode\\T9\\egyptian_fractions_test.py",
+     "charCount": 505
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\PromptOnly\\T1\\egyptian_fractions_test.py",
+     "charCount": 672
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\PromptOnly\\T10\\egyptian_fractions_test.py",
+     "charCount": 559
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\PromptOnly\\T2\\egyptian_fractions_test.py",
+     "charCount": 408
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\PromptOnly\\T3\\egyptian_fractions_test.py",
+     "charCount": 770
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\PromptOnly\\T4\\egyptian_fractions_test.py",
+     "charCount": 504
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\PromptOnly\\T5\\egyptian_fractions_test.py",
+     "charCount": 430
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\PromptOnly\\T6\\egyptian_fractions_test.py",
+     "charCount": 412
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\PromptOnly\\T7\\egyptian_fractions_test.py",
+     "charCount": 422
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\PromptOnly\\T8\\egyptian_fractions_test.py",
+     "charCount": 1566
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\EgyptianFractions\\PromptOnly\\T9\\egyptian_fractions_test.py",
+     "charCount": 930
+    }
+   ]
+  },
+  "FloydWarshall": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\AIGenerated\\T1\\floyd_warshall_test.py",
+     "charCount": 1188
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\AIGenerated\\T10\\floyd_warshall_test.py",
+     "charCount": 1401
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\AIGenerated\\T2\\floyd_warshall_test.py",
+     "charCount": 961
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\AIGenerated\\T3\\floyd_warshall_test.py",
+     "charCount": 1164
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\AIGenerated\\T4\\floyd_warshall_test.py",
+     "charCount": 1159
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\AIGenerated\\T5\\floyd_warshall_test.py",
+     "charCount": 1176
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\AIGenerated\\T6\\floyd_warshall_test.py",
+     "charCount": 1254
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\AIGenerated\\T7\\floyd_warshall_test.py",
+     "charCount": 1396
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\AIGenerated\\T8\\floyd_warshall_test.py",
+     "charCount": 1184
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\AIGenerated\\T9\\floyd_warshall_test.py",
+     "charCount": 1472
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\BookExampleCode\\T1\\floyd_warshall_test.py",
+     "charCount": 1506
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\BookExampleCode\\T10\\floyd_warshall_test.py",
+     "charCount": 1190
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\BookExampleCode\\T2\\floyd_warshall_test.py",
+     "charCount": 1510
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\BookExampleCode\\T3\\floyd_warshall_test.py",
+     "charCount": 1032
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\BookExampleCode\\T4\\floyd_warshall_test.py",
+     "charCount": 1217
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\BookExampleCode\\T5\\floyd_warshall_test.py",
+     "charCount": 1162
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\BookExampleCode\\T6\\floyd_warshall_test.py",
+     "charCount": 1511
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\BookExampleCode\\T7\\floyd_warshall_test.py",
+     "charCount": 733
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\BookExampleCode\\T8\\floyd_warshall_test.py",
+     "charCount": 1054
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\BookExampleCode\\T9\\floyd_warshall_test.py",
+     "charCount": 1241
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\PromptOnly\\T1\\floyd_warshall_test.py",
+     "charCount": 1290
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\PromptOnly\\T10\\floyd_warshall_test.py",
+     "charCount": 1292
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\PromptOnly\\T2\\floyd_warshall_test.py",
+     "charCount": 1244
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\PromptOnly\\T3\\floyd_warshall_test.py",
+     "charCount": 1174
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\PromptOnly\\T4\\floyd_warshall_test.py",
+     "charCount": 1246
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\PromptOnly\\T5\\floyd_warshall_test.py",
+     "charCount": 1283
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\PromptOnly\\T6\\floyd_warshall_test.py",
+     "charCount": 1286
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\PromptOnly\\T7\\floyd_warshall_test.py",
+     "charCount": 1188
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\PromptOnly\\T8\\floyd_warshall_test.py",
+     "charCount": 1292
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\FloydWarshall\\PromptOnly\\T9\\floyd_warshall_test.py",
+     "charCount": 1248
+    }
+   ]
+  },
+  "Knapsack": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\AIGenerated\\T1\\knapsack_test.py",
+     "charCount": 407
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\AIGenerated\\T10\\knapsack_test.py",
+     "charCount": 408
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\AIGenerated\\T2\\knapsack_test.py",
+     "charCount": 399
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\AIGenerated\\T3\\knapsack_test.py",
+     "charCount": 453
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\AIGenerated\\T4\\knapsack_test.py",
+     "charCount": 413
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\AIGenerated\\T5\\knapsack_test.py",
+     "charCount": 598
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\AIGenerated\\T6\\knapsack_test.py",
+     "charCount": 357
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\AIGenerated\\T7\\knapsack_test.py",
+     "charCount": 364
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\AIGenerated\\T8\\knapsack_test.py",
+     "charCount": 438
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\AIGenerated\\T9\\knapsack_test.py",
+     "charCount": 411
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\BookExampleCode\\T1\\knapsack_test.py",
+     "charCount": 456
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\BookExampleCode\\T10\\knapsack_test.py",
+     "charCount": 603
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\BookExampleCode\\T2\\knapsack_test.py",
+     "charCount": 1156
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\BookExampleCode\\T3\\knapsack_test.py",
+     "charCount": 1778
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\BookExampleCode\\T4\\knapsack_test.py",
+     "charCount": 578
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\BookExampleCode\\T5\\knapsack_test.py",
+     "charCount": 602
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\BookExampleCode\\T6\\knapsack_test.py",
+     "charCount": 413
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\BookExampleCode\\T7\\knapsack_test.py",
+     "charCount": 358
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\BookExampleCode\\T8\\knapsack_test.py",
+     "charCount": 602
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\BookExampleCode\\T9\\knapsack_test.py",
+     "charCount": 399
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\PromptOnly\\T1\\knapsack_test.py",
+     "charCount": 1059
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\PromptOnly\\T10\\knapsack_test.py",
+     "charCount": 668
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\PromptOnly\\T2\\knapsack_test.py",
+     "charCount": 382
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\PromptOnly\\T3\\knapsack_test.py",
+     "charCount": 353
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\PromptOnly\\T4\\knapsack_test.py",
+     "charCount": 1059
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\PromptOnly\\T5\\knapsack_test.py",
+     "charCount": 574
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\PromptOnly\\T6\\knapsack_test.py",
+     "charCount": 391
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\PromptOnly\\T7\\knapsack_test.py",
+     "charCount": 673
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\PromptOnly\\T8\\knapsack_test.py",
+     "charCount": 583
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Knapsack\\PromptOnly\\T9\\knapsack_test.py",
+     "charCount": 913
+    }
+   ]
+  },
+  "Kruskal": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\AIGenerated\\T1\\kruskal_test.py",
+     "charCount": 1018
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\AIGenerated\\T10\\kruskal_test.py",
+     "charCount": 1033
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\AIGenerated\\T2\\kruskal_test.py",
+     "charCount": 1131
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\AIGenerated\\T3\\kruskal_test.py",
+     "charCount": 897
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\AIGenerated\\T4\\kruskal_test.py",
+     "charCount": 1060
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\AIGenerated\\T5\\kruskal_test.py",
+     "charCount": 1053
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\AIGenerated\\T6\\kruskal_test.py",
+     "charCount": 1023
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\AIGenerated\\T7\\kruskal_test.py",
+     "charCount": 897
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\AIGenerated\\T8\\kruskal_test.py",
+     "charCount": 1018
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\AIGenerated\\T9\\kruskal_test.py",
+     "charCount": 866
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\BookExampleCode\\T1\\kruskal_test.py",
+     "charCount": 1038
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\BookExampleCode\\T10\\kruskal_test.py",
+     "charCount": 902
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\BookExampleCode\\T2\\kruskal_test.py",
+     "charCount": 1037
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\BookExampleCode\\T3\\kruskal_test.py",
+     "charCount": 1013
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\BookExampleCode\\T4\\kruskal_test.py",
+     "charCount": 1051
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\BookExampleCode\\T5\\kruskal_test.py",
+     "charCount": 1008
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\BookExampleCode\\T6\\kruskal_test.py",
+     "charCount": 1022
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\BookExampleCode\\T7\\kruskal_test.py",
+     "charCount": 942
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\BookExampleCode\\T8\\kruskal_test.py",
+     "charCount": 1037
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\BookExampleCode\\T9\\kruskal_test.py",
+     "charCount": 892
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\PromptOnly\\T1\\kruskal_test.py",
+     "charCount": 1009
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\PromptOnly\\T10\\kruskal_test.py",
+     "charCount": 1071
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\PromptOnly\\T2\\kruskal_test.py",
+     "charCount": 1000
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\PromptOnly\\T3\\kruskal_test.py",
+     "charCount": 1063
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\PromptOnly\\T4\\kruskal_test.py",
+     "charCount": 1041
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\PromptOnly\\T5\\kruskal_test.py",
+     "charCount": 1023
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\PromptOnly\\T6\\kruskal_test.py",
+     "charCount": 1017
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\PromptOnly\\T7\\kruskal_test.py",
+     "charCount": 1014
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\PromptOnly\\T8\\kruskal_test.py",
+     "charCount": 1078
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\Kruskal\\PromptOnly\\T9\\kruskal_test.py",
+     "charCount": 126
+    }
+   ]
+  },
+  "MergeSort": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\AIGenerated\\T1\\merge_sort_test.py",
+     "charCount": 436
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\AIGenerated\\T10\\merge_sort_test.py",
+     "charCount": 531
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\AIGenerated\\T2\\merge_sort_test.py",
+     "charCount": 628
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\AIGenerated\\T3\\merge_sort_test.py",
+     "charCount": 519
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\AIGenerated\\T4\\merge_sort_test.py",
+     "charCount": 419
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\AIGenerated\\T5\\merge_sort_test.py",
+     "charCount": 745
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\AIGenerated\\T6\\merge_sort_test.py",
+     "charCount": 372
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\AIGenerated\\T7\\merge_sort_test.py",
+     "charCount": 646
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\AIGenerated\\T8\\merge_sort_test.py",
+     "charCount": 372
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\AIGenerated\\T9\\merge_sort_test.py",
+     "charCount": 395
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\BookExampleCode\\T1\\merge_sort_test.py",
+     "charCount": 538
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\BookExampleCode\\T10\\merge_sort_test.py",
+     "charCount": 377
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\BookExampleCode\\T2\\merge_sort_test.py",
+     "charCount": 412
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\BookExampleCode\\T3\\merge_sort_test.py",
+     "charCount": 360
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\BookExampleCode\\T4\\merge_sort_test.py",
+     "charCount": 423
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\BookExampleCode\\T5\\merge_sort_test.py",
+     "charCount": 388
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\BookExampleCode\\T6\\merge_sort_test.py",
+     "charCount": 376
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\BookExampleCode\\T7\\merge_sort_test.py",
+     "charCount": 473
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\BookExampleCode\\T8\\merge_sort_test.py",
+     "charCount": 622
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\BookExampleCode\\T9\\merge_sort_test.py",
+     "charCount": 626
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\PromptOnly\\T1\\merge_sort_test.py",
+     "charCount": 1317
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\PromptOnly\\T10\\merge_sort_test.py",
+     "charCount": 996
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\PromptOnly\\T2\\merge_sort_test.py",
+     "charCount": 501
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\PromptOnly\\T3\\merge_sort_test.py",
+     "charCount": 609
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\PromptOnly\\T4\\merge_sort_test.py",
+     "charCount": 1329
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\PromptOnly\\T5\\merge_sort_test.py",
+     "charCount": 621
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\PromptOnly\\T6\\merge_sort_test.py",
+     "charCount": 384
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\PromptOnly\\T7\\merge_sort_test.py",
+     "charCount": 652
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\PromptOnly\\T8\\merge_sort_test.py",
+     "charCount": 754
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\MergeSort\\PromptOnly\\T9\\merge_sort_test.py",
+     "charCount": 481
+    }
+   ]
+  },
+  "QuickSort": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\AIGenerated\\T1\\quick_sort_test.py",
+     "charCount": 593
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\AIGenerated\\T10\\quick_sort_test.py",
+     "charCount": 536
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\AIGenerated\\T2\\quick_sort_test.py",
+     "charCount": 1408
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\AIGenerated\\T3\\quick_sort_test.py",
+     "charCount": 1548
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\AIGenerated\\T4\\quick_sort_test.py",
+     "charCount": 527
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\AIGenerated\\T5\\quick_sort_test.py",
+     "charCount": 745
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\AIGenerated\\T6\\quick_sort_test.py",
+     "charCount": 501
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\AIGenerated\\T7\\quick_sort_test.py",
+     "charCount": 1607
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\AIGenerated\\T8\\quick_sort_test.py",
+     "charCount": 1652
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\AIGenerated\\T9\\quick_sort_test.py",
+     "charCount": 666
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\BookExampleCode\\T1\\quick_sort_test.py",
+     "charCount": 994
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\BookExampleCode\\T10\\quick_sort_test.py",
+     "charCount": 1553
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\BookExampleCode\\T2\\quick_sort_test.py",
+     "charCount": 1220
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\BookExampleCode\\T3\\quick_sort_test.py",
+     "charCount": 305
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\BookExampleCode\\T4\\quick_sort_test.py",
+     "charCount": 307
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\BookExampleCode\\T5\\quick_sort_test.py",
+     "charCount": 1356
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\BookExampleCode\\T6\\quick_sort_test.py",
+     "charCount": 623
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\BookExampleCode\\T7\\quick_sort_test.py",
+     "charCount": 677
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\BookExampleCode\\T8\\quick_sort_test.py",
+     "charCount": 607
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\BookExampleCode\\T9\\quick_sort_test.py",
+     "charCount": 1015
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\PromptOnly\\T1\\quick_sort_test.py",
+     "charCount": 1244
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\PromptOnly\\T10\\quick_sort_test.py",
+     "charCount": 882
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\PromptOnly\\T2\\quick_sort_test.py",
+     "charCount": 641
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\PromptOnly\\T3\\quick_sort_test.py",
+     "charCount": 455
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\PromptOnly\\T4\\quick_sort_test.py",
+     "charCount": 787
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\PromptOnly\\T5\\quick_sort_test.py",
+     "charCount": 1098
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\PromptOnly\\T6\\quick_sort_test.py",
+     "charCount": 313
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\PromptOnly\\T7\\quick_sort_test.py",
+     "charCount": 628
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\PromptOnly\\T8\\quick_sort_test.py",
+     "charCount": 372
+    },
+    {
+     "path": "py_testgen_app\\test\\Copilot\\QuickSort\\PromptOnly\\T9\\quick_sort_test.py",
+     "charCount": 906
+    }
+   ]
+  }
+ }
+}

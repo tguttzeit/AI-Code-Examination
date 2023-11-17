@@ -1,0 +1,45 @@
+{
+  "name": "ai_code_examination",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "checkstyle": "node scripts/java/runCheckstyle.js",
+    "javafolders": "node scripts/java/createJavaFolders.js",
+    "javacompile": "node scripts/java/compile.js",
+    "javatest": "node scripts/java/javaUnitTest.js",
+    "javajoin": "node scripts/java/joinJavaResults.js",
+    "javacount": "node scripts/java/javaLineCounter.js",
+    "javacheck": "node scripts/java/findUncompilableFiles.js",
+
+    "pytest": "node scripts/python/pythonUnitTest.js",
+    "pyfolders": "node scripts/python/createPythonFolders.js",
+    "pycount": "node scripts/python/pythonLineCounter.js",
+    "pyjoin": "node scripts/python/joinPythonResults.js",
+    "pyconvertpylint": "node scripts/python/convertPylintReport.js",
+    "pyerrors": "node scripts/python/findSyntaxErrors.js",
+
+    "javatgfolders": "node scripts/java_testgen/createJavaFolders.js",
+    "javatgrandom": "node scripts/java_testgen/chooseRandomReference.js",
+    "javatgcheck": "node scripts/java_testgen/filterTestGenerations.js",
+    "javatglevenshtein": "node scripts/java_testgen/checkLevenshteinDistance.js",
+    "javatgtest": "node scripts/java_testgen/runUnitTests.js",
+    "javatgcoverage": "node scripts/java_testgen/createJacocoReport.js",
+    "javatgcharcount": "node scripts/java_testgen/charCounter.js",
+    "javatgjoin": "node scripts/java_testgen/joinJavaResults.js",
+
+    "pytgfolders": "node scripts/python_testgen/createPythonFolders.js",
+    "pytgrandom": "node scripts/python_testgen/chooseRandomReference.js",
+    "pytgcheck": "node scripts/python_testgen/filterTestGenerations.js",
+    "pytglevenshtein": "node scripts/python_testgen/checkLevenshteinDistance.js",
+    "pytgtest": "node scripts/python_testgen/runUnitTests.js",
+    "pytgcoverage": "node scripts/python_testgen/runTestCoverage.js",
+    "pytgcharcount": "node scripts/python_testgen/charCounter.js",
+    "pytgjoin": "node scripts/python_testgen/joinPythonResults.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "js-levenshtein": "^1.1.6"
+  }
+}

@@ -1,0 +1,30 @@
+[pylint]
+# Disable all checkers first to only run the ones we want
+disable=all
+
+[MASTER]
+# Pylint should not search for other configuration files and only take this one into account 
+persistent=no
+
+# Import checker for magic values and for statements per line
+load-plugins=pylint.extensions.magic_value, pylint.checkers.format
+
+# Use multiple processes to speed up Pylint.
+jobs=4
+
+[REPORTS]
+# Output report as a json file
+output-format=json
+
+# Tells whether to display a full report or only the messages
+reports=yes
+
+# Python expression which should return a note less than 10 (10 is the highest
+# note). You have access to the variables errors warning, statement which
+# respectively contain the number of errors / warnings messages and the total
+# number of statements analyzed. This is used by the global evaluation report
+# (RP0004).
+evaluation=10.0 - ((float(5 * error + warning + refactor + convention) / statement) * 10)
+
+# IDs for syntax error message
+enable=E

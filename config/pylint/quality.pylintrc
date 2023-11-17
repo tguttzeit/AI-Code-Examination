@@ -1,0 +1,50 @@
+[pylint]
+# Disable all checkers first to only run the ones we want
+disable=all
+
+[MASTER]
+# Pylint should not search for other configuration files and only take this one into account 
+persistent=no
+
+# Import checker for magic values and for statements per line
+load-plugins=pylint.extensions.magic_value, pylint.checkers.format
+
+# Use multiple processes to speed up Pylint.
+jobs=4
+
+[REPORTS]
+# Output report as a json file
+output-format=json
+
+# Tells whether to display a full report or only the messages
+reports=yes
+
+# Python expression which should return a note less than 10 (10 is the highest
+# note). You have access to the variables errors warning, statement which
+# respectively contain the number of errors / warnings messages and the total
+# number of statements analyzed. This is used by the global evaluation report
+# (RP0004).
+evaluation=10.0 - ((float(5 * error + warning + refactor + convention) / statement) * 10)
+
+# IDs for messages thrown by:
+# too many nested blocks (R1702),too many args (R0913),line too long (C0301),too many lines (C0302),
+# function and method rgx for name length (C0103), magic values (R2004), multiple statements per line (C0321)
+enable=R1702,R0913,C0103,C0301,C0302,R2004,C0321
+
+
+[DESIGN]
+# Maximum number of arguments for function / method
+max-args=3
+# Maximum number of characters on a single line
+max-line-length=79
+# Maximum number of lines in a module
+max-module-lines=500
+
+[REFACTORING]
+# Maximum number of nested blocks for function / method body
+max-nested-blocks = 2
+
+[BASIC]
+# Method and function names should only be max. 20 characters long
+function-rgx=^.{1,20}$
+method-rgx=^.{1,20}$

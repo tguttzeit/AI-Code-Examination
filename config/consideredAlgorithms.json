@@ -1,0 +1,19 @@
+{
+    "considered": [        
+        ["BreadthFirstSearch","breadth_first_search"],
+        ["BinaryToDecimal","binary_to_decimal"],
+        ["BinarySearch","binary_search"],
+        ["MergeSort","merge_sort"],
+        ["QuickSort","quick_sort"],
+        ["Knapsack","knapsack"],
+
+        ["BellmanFord", "bellman_ford"],
+        ["Kruskal","kruskal"],
+        ["EgyptianFractions","egyptian_fractions"],
+        ["Dijkstra","dijkstra"],
+        ["DepthFirstSearch","depth_first_search"],
+        ["FloydWarshall","floyd_warshall"]       
+    ],
+    "leftOut": [
+    ]
+}

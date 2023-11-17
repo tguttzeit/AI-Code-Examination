@@ -1,0 +1,30 @@
+package Copilot.Knapsack.T23;
+
+public class Knapsack {
+
+
+    // capacity = 6
+    // weights = [1, 2, 3]
+    // values = [6, 10, 12]
+    // result = 22
+    public int bottomUp(int capacity, int[] weights, int[] values) {
+        int[][] dp = new int[weights.length + 1][capacity + 1];
+
+        for (int i = 0; i < weights.length + 1; i++) {
+            for (int j = 0; j < capacity + 1; j++) {
+                if (i == 0 || j == 0) {
+                    dp[i][j] = 0;
+
+                } else if (weights[i - 1] <= j) {
+                    dp[i][j] = Math.max(values[i - 1] + dp[i - 1][j - weights[i - 1]], dp[i - 1][j]);
+
+                } else {
+                    dp[i][j] = dp[i - 1][j];
+                }
+            }
+        }
+
+        return dp[weights.length][capacity];
+    }
+
+}

@@ -1,0 +1,3078 @@
+{
+ "ChatGPT": {
+  "BellmanFord": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/old/ChatGPT/BellmanFord/AIGenerated/T9/bellman_ford_test.py",
+     "distance": 48
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/AIGenerated/T1/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/AIGenerated/T10/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/AIGenerated/T2/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/AIGenerated/T3/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/AIGenerated/T4/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/AIGenerated/T5/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/AIGenerated/T6/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/AIGenerated/T7/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/AIGenerated/T8/bellman_ford_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/BookExampleCode/T1/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/BookExampleCode/T10/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/BookExampleCode/T2/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/BookExampleCode/T3/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/BookExampleCode/T4/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/BookExampleCode/T5/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/BookExampleCode/T6/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/BookExampleCode/T7/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/BookExampleCode/T8/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/BookExampleCode/T9/bellman_ford_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/PromptOnly/T1/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/PromptOnly/T10/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/PromptOnly/T2/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/PromptOnly/T3/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/PromptOnly/T4/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/PromptOnly/T5/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/PromptOnly/T6/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/PromptOnly/T7/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/PromptOnly/T8/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BellmanFord/PromptOnly/T9/bellman_ford_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "BinarySearch": {
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinarySearch/PromptOnly/T1/binary_search_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinarySearch/PromptOnly/T2/binary_search_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinarySearch/PromptOnly/T3/binary_search_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinarySearch/PromptOnly/T4/binary_search_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinarySearch/PromptOnly/T5/binary_search_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinarySearch/PromptOnly/T6/binary_search_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinarySearch/PromptOnly/T7/binary_search_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinarySearch/PromptOnly/T8/binary_search_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/PromptOnly/T10/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/PromptOnly/T9/binary_search_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/AIGenerated/T1/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/AIGenerated/T10/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/AIGenerated/T2/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/AIGenerated/T3/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/AIGenerated/T4/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/AIGenerated/T5/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/AIGenerated/T6/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/AIGenerated/T7/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/AIGenerated/T8/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/AIGenerated/T9/binary_search_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/BookExampleCode/T1/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/BookExampleCode/T10/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/BookExampleCode/T2/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/BookExampleCode/T3/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/BookExampleCode/T4/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/BookExampleCode/T5/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/BookExampleCode/T6/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/BookExampleCode/T7/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/BookExampleCode/T8/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinarySearch/BookExampleCode/T9/binary_search_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "BinaryToDecimal": {
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinaryToDecimal/PromptOnly/T1/binary_to_decimal_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinaryToDecimal/PromptOnly/T10/binary_to_decimal_test.py",
+     "distance": 8
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinaryToDecimal/PromptOnly/T2/binary_to_decimal_test.py",
+     "distance": 8
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinaryToDecimal/PromptOnly/T3/binary_to_decimal_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinaryToDecimal/PromptOnly/T5/binary_to_decimal_test.py",
+     "distance": 16
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinaryToDecimal/PromptOnly/T8/binary_to_decimal_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/BinaryToDecimal/PromptOnly/T9/binary_to_decimal_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/PromptOnly/T4/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/PromptOnly/T6/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/PromptOnly/T7/binary_to_decimal_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/AIGenerated/T1/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/AIGenerated/T10/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/AIGenerated/T2/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/AIGenerated/T3/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/AIGenerated/T4/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/AIGenerated/T5/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/AIGenerated/T6/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/AIGenerated/T7/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/AIGenerated/T8/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/AIGenerated/T9/binary_to_decimal_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/BookExampleCode/T1/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/BookExampleCode/T10/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/BookExampleCode/T2/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/BookExampleCode/T3/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/BookExampleCode/T4/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/BookExampleCode/T5/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/BookExampleCode/T6/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/BookExampleCode/T7/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/BookExampleCode/T8/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BinaryToDecimal/BookExampleCode/T9/binary_to_decimal_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "BreadthFirstSearch": {
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/ChatGPT/BreadthFirstSearch/PromptOnly/T5/graph_test.py",
+     "distance": 15
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/PromptOnly/T1/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/PromptOnly/T10/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/PromptOnly/T2/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/PromptOnly/T3/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/PromptOnly/T4/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/PromptOnly/T6/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/PromptOnly/T7/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/PromptOnly/T8/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/PromptOnly/T9/graph_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/AIGenerated/T1/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/AIGenerated/T10/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/AIGenerated/T2/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/AIGenerated/T3/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/AIGenerated/T4/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/AIGenerated/T5/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/AIGenerated/T6/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/AIGenerated/T7/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/AIGenerated/T8/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/AIGenerated/T9/graph_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/BookExampleCode/T1/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/BookExampleCode/T10/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/BookExampleCode/T2/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/BookExampleCode/T3/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/BookExampleCode/T4/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/BookExampleCode/T5/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/BookExampleCode/T6/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/BookExampleCode/T7/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/BookExampleCode/T8/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/BreadthFirstSearch/BookExampleCode/T9/graph_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "EgyptianFractions": {
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/ChatGPT/EgyptianFractions/PromptOnly/T10/egyptian_fractions_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/EgyptianFractions/PromptOnly/T2/egyptian_fractions_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/EgyptianFractions/PromptOnly/T3/egyptian_fractions_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/EgyptianFractions/PromptOnly/T4/egyptian_fractions_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/EgyptianFractions/PromptOnly/T6/egyptian_fractions_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/PromptOnly/T1/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/PromptOnly/T5/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/PromptOnly/T7/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/PromptOnly/T8/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/PromptOnly/T9/egyptian_fractions_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/AIGenerated/T1/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/AIGenerated/T10/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/AIGenerated/T2/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/AIGenerated/T3/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/AIGenerated/T4/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/AIGenerated/T5/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/AIGenerated/T6/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/AIGenerated/T7/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/AIGenerated/T8/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/AIGenerated/T9/egyptian_fractions_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/BookExampleCode/T1/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/BookExampleCode/T10/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/BookExampleCode/T2/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/BookExampleCode/T3/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/BookExampleCode/T4/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/BookExampleCode/T5/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/BookExampleCode/T6/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/BookExampleCode/T7/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/BookExampleCode/T8/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/EgyptianFractions/BookExampleCode/T9/egyptian_fractions_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "FloydWarshall": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/old/ChatGPT/FloydWarshall/AIGenerated/T4/floyd_warshall_test.py",
+     "distance": 96
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/FloydWarshall/AIGenerated/T8/floyd_warshall_test.py",
+     "distance": 93
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/AIGenerated/T1/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/AIGenerated/T10/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/AIGenerated/T2/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/AIGenerated/T3/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/AIGenerated/T5/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/AIGenerated/T6/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/AIGenerated/T7/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/AIGenerated/T9/floyd_warshall_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/ChatGPT/FloydWarshall/PromptOnly/T4/floyd_warshall_test.py",
+     "distance": 12
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/FloydWarshall/PromptOnly/T6/floyd_warshall_test.py",
+     "distance": 64
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/PromptOnly/T1/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/PromptOnly/T10/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/PromptOnly/T2/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/PromptOnly/T3/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/PromptOnly/T5/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/PromptOnly/T7/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/PromptOnly/T8/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/PromptOnly/T9/floyd_warshall_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/BookExampleCode/T1/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/BookExampleCode/T10/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/BookExampleCode/T2/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/BookExampleCode/T3/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/BookExampleCode/T4/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/BookExampleCode/T5/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/BookExampleCode/T6/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/BookExampleCode/T7/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/BookExampleCode/T8/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/FloydWarshall/BookExampleCode/T9/floyd_warshall_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "Knapsack": {
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/ChatGPT/Knapsack/PromptOnly/T5/knapsack_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/Knapsack/PromptOnly/T6/knapsack_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/PromptOnly/T1/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/PromptOnly/T10/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/PromptOnly/T2/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/PromptOnly/T3/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/PromptOnly/T4/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/PromptOnly/T7/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/PromptOnly/T8/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/PromptOnly/T9/knapsack_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/AIGenerated/T1/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/AIGenerated/T10/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/AIGenerated/T2/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/AIGenerated/T3/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/AIGenerated/T4/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/AIGenerated/T5/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/AIGenerated/T6/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/AIGenerated/T7/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/AIGenerated/T8/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/AIGenerated/T9/knapsack_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/BookExampleCode/T1/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/BookExampleCode/T10/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/BookExampleCode/T2/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/BookExampleCode/T3/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/BookExampleCode/T4/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/BookExampleCode/T5/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/BookExampleCode/T6/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/BookExampleCode/T7/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/BookExampleCode/T8/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Knapsack/BookExampleCode/T9/knapsack_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "MergeSort": {
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/ChatGPT/MergeSort/PromptOnly/T1/merge_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/MergeSort/PromptOnly/T10/merge_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/MergeSort/PromptOnly/T3/merge_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/MergeSort/PromptOnly/T5/merge_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/MergeSort/PromptOnly/T6/merge_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/MergeSort/PromptOnly/T7/merge_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/MergeSort/PromptOnly/T8/merge_sort_test.py",
+     "distance": 8
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/MergeSort/PromptOnly/T9/merge_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/PromptOnly/T2/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/PromptOnly/T4/merge_sort_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/AIGenerated/T1/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/AIGenerated/T10/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/AIGenerated/T2/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/AIGenerated/T3/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/AIGenerated/T4/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/AIGenerated/T5/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/AIGenerated/T6/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/AIGenerated/T7/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/AIGenerated/T8/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/AIGenerated/T9/merge_sort_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/BookExampleCode/T1/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/BookExampleCode/T10/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/BookExampleCode/T2/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/BookExampleCode/T3/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/BookExampleCode/T4/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/BookExampleCode/T5/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/BookExampleCode/T6/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/BookExampleCode/T7/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/BookExampleCode/T8/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/MergeSort/BookExampleCode/T9/merge_sort_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "QuickSort": {
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/ChatGPT/QuickSort/PromptOnly/T1/quick_sort_test.py",
+     "distance": 8
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/QuickSort/PromptOnly/T4/quick_sort_test.py",
+     "distance": 8
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/QuickSort/PromptOnly/T5/quick_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/QuickSort/PromptOnly/T6/quick_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/ChatGPT/QuickSort/PromptOnly/T9/quick_sort_test.py",
+     "distance": 8
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/PromptOnly/T10/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/PromptOnly/T2/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/PromptOnly/T3/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/PromptOnly/T7/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/PromptOnly/T8/quick_sort_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/AIGenerated/T1/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/AIGenerated/T10/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/AIGenerated/T2/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/AIGenerated/T3/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/AIGenerated/T4/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/AIGenerated/T5/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/AIGenerated/T6/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/AIGenerated/T7/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/AIGenerated/T8/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/AIGenerated/T9/quick_sort_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/BookExampleCode/T1/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/BookExampleCode/T10/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/BookExampleCode/T2/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/BookExampleCode/T3/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/BookExampleCode/T4/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/BookExampleCode/T5/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/BookExampleCode/T6/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/BookExampleCode/T7/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/BookExampleCode/T8/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/QuickSort/BookExampleCode/T9/quick_sort_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "DepthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/AIGenerated/T1/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/AIGenerated/T10/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/AIGenerated/T2/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/AIGenerated/T3/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/AIGenerated/T4/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/AIGenerated/T5/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/AIGenerated/T6/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/AIGenerated/T7/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/AIGenerated/T8/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/AIGenerated/T9/depth_first_search_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/BookExampleCode/T1/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/BookExampleCode/T10/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/BookExampleCode/T2/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/BookExampleCode/T3/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/BookExampleCode/T4/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/BookExampleCode/T5/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/BookExampleCode/T6/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/BookExampleCode/T7/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/BookExampleCode/T8/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/BookExampleCode/T9/depth_first_search_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/PromptOnly/T1/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/PromptOnly/T10/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/PromptOnly/T2/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/PromptOnly/T3/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/PromptOnly/T4/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/PromptOnly/T5/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/PromptOnly/T6/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/PromptOnly/T7/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/PromptOnly/T8/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/DepthFirstSearch/PromptOnly/T9/depth_first_search_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "Dijkstra": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/AIGenerated/T1/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/AIGenerated/T10/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/AIGenerated/T2/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/AIGenerated/T3/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/AIGenerated/T4/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/AIGenerated/T5/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/AIGenerated/T6/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/AIGenerated/T7/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/AIGenerated/T8/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/AIGenerated/T9/dijkstra_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/BookExampleCode/T1/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/BookExampleCode/T10/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/BookExampleCode/T2/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/BookExampleCode/T3/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/BookExampleCode/T4/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/BookExampleCode/T5/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/BookExampleCode/T6/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/BookExampleCode/T7/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/BookExampleCode/T8/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/BookExampleCode/T9/dijkstra_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/PromptOnly/T1/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/PromptOnly/T10/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/PromptOnly/T2/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/PromptOnly/T3/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/PromptOnly/T4/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/PromptOnly/T5/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/PromptOnly/T6/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/PromptOnly/T7/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/PromptOnly/T8/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Dijkstra/PromptOnly/T9/dijkstra_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "Kruskal": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/AIGenerated/T1/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/AIGenerated/T10/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/AIGenerated/T2/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/AIGenerated/T3/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/AIGenerated/T4/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/AIGenerated/T5/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/AIGenerated/T6/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/AIGenerated/T7/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/AIGenerated/T8/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/AIGenerated/T9/kruskal_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/BookExampleCode/T1/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/BookExampleCode/T10/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/BookExampleCode/T2/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/BookExampleCode/T3/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/BookExampleCode/T4/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/BookExampleCode/T5/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/BookExampleCode/T6/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/BookExampleCode/T7/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/BookExampleCode/T8/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/BookExampleCode/T9/kruskal_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/PromptOnly/T1/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/PromptOnly/T10/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/PromptOnly/T2/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/PromptOnly/T3/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/PromptOnly/T4/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/PromptOnly/T5/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/PromptOnly/T6/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/PromptOnly/T7/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/PromptOnly/T8/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/ChatGPT/Kruskal/PromptOnly/T9/kruskal_test.py",
+     "distance": 0
+    }
+   ]
+  }
+ },
+ "Copilot": {
+  "BellmanFord": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/AIGenerated/T1/bellman_ford_test.py",
+     "distance": 9
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/AIGenerated/T10/bellman_ford_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/AIGenerated/T3/bellman_ford_test.py",
+     "distance": 59
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/AIGenerated/T4/bellman_ford_test.py",
+     "distance": 51
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/AIGenerated/T5/bellman_ford_test.py",
+     "distance": 5
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/AIGenerated/T6/bellman_ford_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/AIGenerated/T7/bellman_ford_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/AIGenerated/T8/bellman_ford_test.py",
+     "distance": 46
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/AIGenerated/T9/bellman_ford_test.py",
+     "distance": 48
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/AIGenerated/T2/bellman_ford_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/BookExampleCode/T5/bellman_ford_test.py",
+     "distance": 51
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/BookExampleCode/T8/bellman_ford_test.py",
+     "distance": 33
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/BookExampleCode/T9/bellman_ford_test.py",
+     "distance": 59
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/BookExampleCode/T1/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/BookExampleCode/T10/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/BookExampleCode/T2/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/BookExampleCode/T3/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/BookExampleCode/T4/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/BookExampleCode/T6/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/BookExampleCode/T7/bellman_ford_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/PromptOnly/T1/bellman_ford_test.py",
+     "distance": 4
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/PromptOnly/T6/bellman_ford_test.py",
+     "distance": 63
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BellmanFord/PromptOnly/T8/bellman_ford_test.py",
+     "distance": 48
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/PromptOnly/T10/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/PromptOnly/T2/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/PromptOnly/T3/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/PromptOnly/T4/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/PromptOnly/T5/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/PromptOnly/T7/bellman_ford_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BellmanFord/PromptOnly/T9/bellman_ford_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "BinarySearch": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/AIGenerated/T2/binary_search_test.py",
+     "distance": 50
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/AIGenerated/T3/binary_search_test.py",
+     "distance": 34
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/AIGenerated/T4/binary_search_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/AIGenerated/T5/binary_search_test.py",
+     "distance": 20
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/AIGenerated/T7/binary_search_test.py",
+     "distance": 43
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/AIGenerated/T8/binary_search_test.py",
+     "distance": 57
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/AIGenerated/T1/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/AIGenerated/T10/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/AIGenerated/T6/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/AIGenerated/T9/binary_search_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/BookExampleCode/T4/binary_search_test.py",
+     "distance": 14
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/BookExampleCode/T8/binary_search_test.py",
+     "distance": 51
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/BookExampleCode/T1/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/BookExampleCode/T10/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/BookExampleCode/T2/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/BookExampleCode/T3/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/BookExampleCode/T5/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/BookExampleCode/T6/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/BookExampleCode/T7/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/BookExampleCode/T9/binary_search_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/PromptOnly/T1/binary_search_test.py",
+     "distance": 26
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/PromptOnly/T10/binary_search_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/PromptOnly/T2/binary_search_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/PromptOnly/T3/binary_search_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/PromptOnly/T4/binary_search_test.py",
+     "distance": 10
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/PromptOnly/T5/binary_search_test.py",
+     "distance": 45
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinarySearch/PromptOnly/T7/binary_search_test.py",
+     "distance": 45
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/PromptOnly/T6/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/PromptOnly/T8/binary_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinarySearch/PromptOnly/T9/binary_search_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "BinaryToDecimal": {
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/old/Copilot/BinaryToDecimal/BookExampleCode/T1/binary_to_decimal_test.py",
+     "distance": 49
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinaryToDecimal/BookExampleCode/T2/binary_to_decimal_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinaryToDecimal/BookExampleCode/T3/binary_to_decimal_test.py",
+     "distance": 49
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinaryToDecimal/BookExampleCode/T4/binary_to_decimal_test.py",
+     "distance": 10
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/BookExampleCode/T10/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/BookExampleCode/T5/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/BookExampleCode/T6/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/BookExampleCode/T7/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/BookExampleCode/T8/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/BookExampleCode/T9/binary_to_decimal_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/BinaryToDecimal/PromptOnly/T1/binary_to_decimal_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinaryToDecimal/PromptOnly/T10/binary_to_decimal_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinaryToDecimal/PromptOnly/T2/binary_to_decimal_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinaryToDecimal/PromptOnly/T7/binary_to_decimal_test.py",
+     "distance": 10
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinaryToDecimal/PromptOnly/T8/binary_to_decimal_test.py",
+     "distance": 45
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BinaryToDecimal/PromptOnly/T9/binary_to_decimal_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/PromptOnly/T3/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/PromptOnly/T4/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/PromptOnly/T5/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/PromptOnly/T6/binary_to_decimal_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/AIGenerated/T1/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/AIGenerated/T10/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/AIGenerated/T2/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/AIGenerated/T3/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/AIGenerated/T4/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/AIGenerated/T5/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/AIGenerated/T6/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/AIGenerated/T7/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/AIGenerated/T8/binary_to_decimal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BinaryToDecimal/AIGenerated/T9/binary_to_decimal_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "BreadthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/AIGenerated/T1/graph_test.py",
+     "distance": 1
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/AIGenerated/T2/graph_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/AIGenerated/T4/graph_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/AIGenerated/T5/graph_test.py",
+     "distance": 1
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/AIGenerated/T6/graph_test.py",
+     "distance": 41
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/AIGenerated/T7/graph_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/AIGenerated/T8/graph_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/AIGenerated/T9/graph_test.py",
+     "distance": 26
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/AIGenerated/T10/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/AIGenerated/T3/graph_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/BookExampleCode/T4/graph_test.py",
+     "distance": 32
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/BookExampleCode/T7/graph_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/BookExampleCode/T8/graph_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/BookExampleCode/T1/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/BookExampleCode/T10/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/BookExampleCode/T2/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/BookExampleCode/T3/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/BookExampleCode/T5/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/BookExampleCode/T6/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/BookExampleCode/T9/graph_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/BreadthFirstSearch/PromptOnly/T7/graph_test.py",
+     "distance": 40
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/PromptOnly/T1/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/PromptOnly/T10/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/PromptOnly/T2/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/PromptOnly/T3/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/PromptOnly/T4/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/PromptOnly/T5/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/PromptOnly/T6/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/PromptOnly/T8/graph_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/BreadthFirstSearch/PromptOnly/T9/graph_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "DepthFirstSearch": {
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/DepthFirstSearch/PromptOnly/T1/depth_first_search_test.py",
+     "distance": 39
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/DepthFirstSearch/PromptOnly/T10/depth_first_search_test.py",
+     "distance": 36
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/DepthFirstSearch/PromptOnly/T6/depth_first_search_test.py",
+     "distance": 39
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/DepthFirstSearch/PromptOnly/T8/depth_first_search_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/DepthFirstSearch/PromptOnly/T9/depth_first_search_test.py",
+     "distance": 1
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/PromptOnly/T2/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/PromptOnly/T3/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/PromptOnly/T4/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/PromptOnly/T5/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/PromptOnly/T7/depth_first_search_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/AIGenerated/T1/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/AIGenerated/T10/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/AIGenerated/T2/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/AIGenerated/T3/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/AIGenerated/T4/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/AIGenerated/T5/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/AIGenerated/T6/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/AIGenerated/T7/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/AIGenerated/T8/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/AIGenerated/T9/depth_first_search_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/BookExampleCode/T1/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/BookExampleCode/T10/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/BookExampleCode/T2/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/BookExampleCode/T3/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/BookExampleCode/T4/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/BookExampleCode/T5/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/BookExampleCode/T6/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/BookExampleCode/T7/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/BookExampleCode/T8/depth_first_search_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/DepthFirstSearch/BookExampleCode/T9/depth_first_search_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "Dijkstra": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/AIGenerated/T3/dijkstra_test.py",
+     "distance": 50
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/AIGenerated/T7/dijkstra_test.py",
+     "distance": 54
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/AIGenerated/T8/dijkstra_test.py",
+     "distance": 26
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/AIGenerated/T9/dijkstra_test.py",
+     "distance": 69
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/AIGenerated/T1/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/AIGenerated/T10/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/AIGenerated/T2/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/AIGenerated/T4/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/AIGenerated/T5/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/AIGenerated/T6/dijkstra_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/BookExampleCode/T1/dijkstra_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/BookExampleCode/T3/dijkstra_test.py",
+     "distance": 23
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/BookExampleCode/T7/dijkstra_test.py",
+     "distance": 68
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/BookExampleCode/T8/dijkstra_test.py",
+     "distance": 52
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/BookExampleCode/T9/dijkstra_test.py",
+     "distance": 58
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/BookExampleCode/T10/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/BookExampleCode/T2/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/BookExampleCode/T4/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/BookExampleCode/T5/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/BookExampleCode/T6/dijkstra_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/PromptOnly/T1/dijkstra_test.py",
+     "distance": 10
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/PromptOnly/T10/dijkstra_test.py",
+     "distance": 63
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/PromptOnly/T3/dijkstra_test.py",
+     "distance": 4
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/PromptOnly/T5/dijkstra_test.py",
+     "distance": 21
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/PromptOnly/T6/dijkstra_test.py",
+     "distance": 62
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/PromptOnly/T7/dijkstra_test.py",
+     "distance": 67
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Dijkstra/PromptOnly/T8/dijkstra_test.py",
+     "distance": 57
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/PromptOnly/T2/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/PromptOnly/T4/dijkstra_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Dijkstra/PromptOnly/T9/dijkstra_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "EgyptianFractions": {
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/old/Copilot/EgyptianFractions/BookExampleCode/T7/egyptian_fractions_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/EgyptianFractions/BookExampleCode/T8/egyptian_fractions_test.py",
+     "distance": 1
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/BookExampleCode/T1/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/BookExampleCode/T10/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/BookExampleCode/T2/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/BookExampleCode/T3/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/BookExampleCode/T4/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/BookExampleCode/T5/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/BookExampleCode/T6/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/BookExampleCode/T9/egyptian_fractions_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/EgyptianFractions/PromptOnly/T10/egyptian_fractions_test.py",
+     "distance": 5
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/EgyptianFractions/PromptOnly/T2/egyptian_fractions_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/EgyptianFractions/PromptOnly/T3/egyptian_fractions_test.py",
+     "distance": 18
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/EgyptianFractions/PromptOnly/T4/egyptian_fractions_test.py",
+     "distance": 10
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/EgyptianFractions/PromptOnly/T6/egyptian_fractions_test.py",
+     "distance": 864
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/EgyptianFractions/PromptOnly/T7/egyptian_fractions_test.py",
+     "distance": 8
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/EgyptianFractions/PromptOnly/T8/egyptian_fractions_test.py",
+     "distance": 39
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/EgyptianFractions/PromptOnly/T9/egyptian_fractions_test.py",
+     "distance": 24
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/PromptOnly/T1/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/PromptOnly/T5/egyptian_fractions_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/AIGenerated/T1/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/AIGenerated/T10/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/AIGenerated/T2/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/AIGenerated/T3/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/AIGenerated/T4/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/AIGenerated/T5/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/AIGenerated/T6/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/AIGenerated/T7/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/AIGenerated/T8/egyptian_fractions_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/EgyptianFractions/AIGenerated/T9/egyptian_fractions_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "FloydWarshall": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/AIGenerated/T10/floyd_warshall_test.py",
+     "distance": 19
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/AIGenerated/T2/floyd_warshall_test.py",
+     "distance": 208
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/AIGenerated/T4/floyd_warshall_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/AIGenerated/T5/floyd_warshall_test.py",
+     "distance": 87
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/AIGenerated/T6/floyd_warshall_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/AIGenerated/T7/floyd_warshall_test.py",
+     "distance": 30
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/AIGenerated/T8/floyd_warshall_test.py",
+     "distance": 48
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/AIGenerated/T9/floyd_warshall_test.py",
+     "distance": 30
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/FloydWarshall/AIGenerated/T1/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/FloydWarshall/AIGenerated/T3/floyd_warshall_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/BookExampleCode/T1/floyd_warshall_test.py",
+     "distance": 35
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/BookExampleCode/T10/floyd_warshall_test.py",
+     "distance": 27
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/BookExampleCode/T2/floyd_warshall_test.py",
+     "distance": 30
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/BookExampleCode/T3/floyd_warshall_test.py",
+     "distance": 53
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/BookExampleCode/T5/floyd_warshall_test.py",
+     "distance": 50
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/BookExampleCode/T6/floyd_warshall_test.py",
+     "distance": 30
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/BookExampleCode/T7/floyd_warshall_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/BookExampleCode/T8/floyd_warshall_test.py",
+     "distance": 672
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/BookExampleCode/T9/floyd_warshall_test.py",
+     "distance": 402
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/FloydWarshall/BookExampleCode/T4/floyd_warshall_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/PromptOnly/T1/floyd_warshall_test.py",
+     "distance": 10
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/PromptOnly/T2/floyd_warshall_test.py",
+     "distance": 46
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/PromptOnly/T3/floyd_warshall_test.py",
+     "distance": 4
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/PromptOnly/T4/floyd_warshall_test.py",
+     "distance": 35
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/PromptOnly/T5/floyd_warshall_test.py",
+     "distance": 27
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/PromptOnly/T6/floyd_warshall_test.py",
+     "distance": 4
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/PromptOnly/T7/floyd_warshall_test.py",
+     "distance": 52
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/FloydWarshall/PromptOnly/T9/floyd_warshall_test.py",
+     "distance": 30
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/FloydWarshall/PromptOnly/T10/floyd_warshall_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/FloydWarshall/PromptOnly/T8/floyd_warshall_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "Knapsack": {
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/Knapsack/PromptOnly/T1/knapsack_test.py",
+     "distance": 18
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Knapsack/PromptOnly/T10/knapsack_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Knapsack/PromptOnly/T4/knapsack_test.py",
+     "distance": 18
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Knapsack/PromptOnly/T5/knapsack_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Knapsack/PromptOnly/T7/knapsack_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Knapsack/PromptOnly/T8/knapsack_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Knapsack/PromptOnly/T9/knapsack_test.py",
+     "distance": 55
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/PromptOnly/T2/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/PromptOnly/T3/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/PromptOnly/T6/knapsack_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/AIGenerated/T1/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/AIGenerated/T10/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/AIGenerated/T2/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/AIGenerated/T3/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/AIGenerated/T4/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/AIGenerated/T5/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/AIGenerated/T6/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/AIGenerated/T7/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/AIGenerated/T8/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/AIGenerated/T9/knapsack_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/BookExampleCode/T1/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/BookExampleCode/T10/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/BookExampleCode/T2/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/BookExampleCode/T3/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/BookExampleCode/T4/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/BookExampleCode/T5/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/BookExampleCode/T6/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/BookExampleCode/T7/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/BookExampleCode/T8/knapsack_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Knapsack/BookExampleCode/T9/knapsack_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "Kruskal": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/AIGenerated/T10/kruskal_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/AIGenerated/T2/kruskal_test.py",
+     "distance": 29
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/AIGenerated/T4/kruskal_test.py",
+     "distance": 1
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/AIGenerated/T5/kruskal_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/AIGenerated/T1/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/AIGenerated/T3/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/AIGenerated/T6/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/AIGenerated/T7/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/AIGenerated/T8/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/AIGenerated/T9/kruskal_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/BookExampleCode/T1/kruskal_test.py",
+     "distance": 4
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/BookExampleCode/T2/kruskal_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/BookExampleCode/T5/kruskal_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/BookExampleCode/T7/kruskal_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/BookExampleCode/T10/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/BookExampleCode/T3/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/BookExampleCode/T4/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/BookExampleCode/T6/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/BookExampleCode/T8/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/BookExampleCode/T9/kruskal_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/PromptOnly/T1/kruskal_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/PromptOnly/T10/kruskal_test.py",
+     "distance": 4
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/PromptOnly/T2/kruskal_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/PromptOnly/T3/kruskal_test.py",
+     "distance": 7
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/PromptOnly/T4/kruskal_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/PromptOnly/T5/kruskal_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/PromptOnly/T7/kruskal_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/Kruskal/PromptOnly/T9/kruskal_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/PromptOnly/T6/kruskal_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/Kruskal/PromptOnly/T8/kruskal_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "MergeSort": {
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/MergeSort/PromptOnly/T2/merge_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/MergeSort/PromptOnly/T3/merge_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/MergeSort/PromptOnly/T7/merge_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/PromptOnly/T1/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/PromptOnly/T10/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/PromptOnly/T4/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/PromptOnly/T5/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/PromptOnly/T6/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/PromptOnly/T8/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/PromptOnly/T9/merge_sort_test.py",
+     "distance": 0
+    }
+   ],
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/AIGenerated/T1/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/AIGenerated/T10/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/AIGenerated/T2/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/AIGenerated/T3/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/AIGenerated/T4/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/AIGenerated/T5/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/AIGenerated/T6/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/AIGenerated/T7/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/AIGenerated/T8/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/AIGenerated/T9/merge_sort_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/BookExampleCode/T1/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/BookExampleCode/T10/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/BookExampleCode/T2/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/BookExampleCode/T3/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/BookExampleCode/T4/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/BookExampleCode/T5/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/BookExampleCode/T6/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/BookExampleCode/T7/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/BookExampleCode/T8/merge_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/MergeSort/BookExampleCode/T9/merge_sort_test.py",
+     "distance": 0
+    }
+   ]
+  },
+  "QuickSort": {
+   "AIGenerated": [
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/AIGenerated/T2/quick_sort_test.py",
+     "distance": 11
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/AIGenerated/T3/quick_sort_test.py",
+     "distance": 3
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/AIGenerated/T7/quick_sort_test.py",
+     "distance": 13
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/AIGenerated/T8/quick_sort_test.py",
+     "distance": 11
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/AIGenerated/T1/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/AIGenerated/T10/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/AIGenerated/T4/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/AIGenerated/T5/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/AIGenerated/T6/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/AIGenerated/T9/quick_sort_test.py",
+     "distance": 0
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/BookExampleCode/T10/quick_sort_test.py",
+     "distance": 9
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/BookExampleCode/T5/quick_sort_test.py",
+     "distance": 2
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/BookExampleCode/T1/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/BookExampleCode/T2/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/BookExampleCode/T3/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/BookExampleCode/T4/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/BookExampleCode/T6/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/BookExampleCode/T7/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/BookExampleCode/T8/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/BookExampleCode/T9/quick_sort_test.py",
+     "distance": 0
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/PromptOnly/T10/quick_sort_test.py",
+     "distance": 11
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/PromptOnly/T2/quick_sort_test.py",
+     "distance": 33
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/PromptOnly/T3/quick_sort_test.py",
+     "distance": 6
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/PromptOnly/T4/quick_sort_test.py",
+     "distance": 33
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/PromptOnly/T7/quick_sort_test.py",
+     "distance": 8
+    },
+    {
+     "path": "py_testgen_app/old/Copilot/QuickSort/PromptOnly/T9/quick_sort_test.py",
+     "distance": 5
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/PromptOnly/T1/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/PromptOnly/T5/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/PromptOnly/T6/quick_sort_test.py",
+     "distance": 0
+    },
+    {
+     "path": "py_testgen_app/test/Copilot/QuickSort/PromptOnly/T8/quick_sort_test.py",
+     "distance": 0
+    }
+   ]
+  }
+ }
+}

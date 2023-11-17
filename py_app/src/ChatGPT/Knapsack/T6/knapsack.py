@@ -1,0 +1,23 @@
+class Knapsack:
+    def __init__(self):
+        self.memo = {}
+
+    def bottom_up(self, capacity, weights, values):
+        n = len(weights)
+
+        # Initialize a table to store the maximum values for different subproblems
+        dp = [[0] * (capacity + 1) for _ in range(n + 1)]
+
+        for i in range(n + 1):
+            for w in range(capacity + 1):
+                if i == 0 or w == 0:
+                    dp[i][w] = 0
+                elif weights[i - 1] <= w:
+                    # If the current item can fit in the knapsack, choose the maximum of including
+                    # and excluding the item
+                    dp[i][w] = max(values[i - 1] + dp[i - 1][w - weights[i - 1]], dp[i - 1][w])
+                else:
+                    # If the current item cannot fit in the knapsack, skip it
+                    dp[i][w] = dp[i - 1][w]
+
+        return dp[n][capacity]

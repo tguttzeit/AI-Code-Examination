@@ -1,0 +1,3078 @@
+{
+ "ChatGPT": {
+  "BellmanFord": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\AIGenerated\\T1\\BellmanFordTest.java",
+     "charCount": 1458
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\AIGenerated\\T10\\BellmanFordTest.java",
+     "charCount": 1822
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\AIGenerated\\T2\\BellmanFordTest.java",
+     "charCount": 1210
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\AIGenerated\\T3\\BellmanFordTest.java",
+     "charCount": 1850
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\AIGenerated\\T4\\BellmanFordTest.java",
+     "charCount": 1951
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\AIGenerated\\T5\\BellmanFordTest.java",
+     "charCount": 1534
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\AIGenerated\\T6\\BellmanFordTest.java",
+     "charCount": 1574
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\AIGenerated\\T7\\BellmanFordTest.java",
+     "charCount": 1693
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\AIGenerated\\T8\\BellmanFordTest.java",
+     "charCount": 1605
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\AIGenerated\\T9\\BellmanFordTest.java",
+     "charCount": 1751
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\BookExampleCode\\T1\\BellmanFordTest.java",
+     "charCount": 1628
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\BookExampleCode\\T10\\BellmanFordTest.java",
+     "charCount": 1764
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\BookExampleCode\\T2\\BellmanFordTest.java",
+     "charCount": 1491
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\BookExampleCode\\T3\\BellmanFordTest.java",
+     "charCount": 1608
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\BookExampleCode\\T4\\BellmanFordTest.java",
+     "charCount": 1642
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\BookExampleCode\\T5\\BellmanFordTest.java",
+     "charCount": 1718
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\BookExampleCode\\T6\\BellmanFordTest.java",
+     "charCount": 1810
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\BookExampleCode\\T7\\BellmanFordTest.java",
+     "charCount": 1582
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\BookExampleCode\\T8\\BellmanFordTest.java",
+     "charCount": 1754
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\BookExampleCode\\T9\\BellmanFordTest.java",
+     "charCount": 1580
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\PromptOnly\\T1\\BellmanFordTest.java",
+     "charCount": 1631
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\PromptOnly\\T10\\BellmanFordTest.java",
+     "charCount": 1800
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\PromptOnly\\T2\\BellmanFordTest.java",
+     "charCount": 1572
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\PromptOnly\\T3\\BellmanFordTest.java",
+     "charCount": 1223
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\PromptOnly\\T4\\BellmanFordTest.java",
+     "charCount": 1493
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\PromptOnly\\T5\\BellmanFordTest.java",
+     "charCount": 1500
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\PromptOnly\\T6\\BellmanFordTest.java",
+     "charCount": 1500
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\PromptOnly\\T7\\BellmanFordTest.java",
+     "charCount": 1593
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\PromptOnly\\T8\\BellmanFordTest.java",
+     "charCount": 1573
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BellmanFord\\PromptOnly\\T9\\BellmanFordTest.java",
+     "charCount": 1235
+    }
+   ]
+  },
+  "BinarySearch": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\AIGenerated\\T1\\BinarySearchTest.java",
+     "charCount": 638
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\AIGenerated\\T10\\BinarySearchTest.java",
+     "charCount": 553
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\AIGenerated\\T2\\BinarySearchTest.java",
+     "charCount": 591
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\AIGenerated\\T3\\BinarySearchTest.java",
+     "charCount": 672
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\AIGenerated\\T4\\BinarySearchTest.java",
+     "charCount": 533
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\AIGenerated\\T5\\BinarySearchTest.java",
+     "charCount": 767
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\AIGenerated\\T6\\BinarySearchTest.java",
+     "charCount": 745
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\AIGenerated\\T7\\BinarySearchTest.java",
+     "charCount": 593
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\AIGenerated\\T8\\BinarySearchTest.java",
+     "charCount": 668
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\AIGenerated\\T9\\BinarySearchTest.java",
+     "charCount": 588
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\BookExampleCode\\T1\\BinarySearchTest.java",
+     "charCount": 779
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\BookExampleCode\\T10\\BinarySearchTest.java",
+     "charCount": 975
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\BookExampleCode\\T2\\BinarySearchTest.java",
+     "charCount": 609
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\BookExampleCode\\T3\\BinarySearchTest.java",
+     "charCount": 589
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\BookExampleCode\\T4\\BinarySearchTest.java",
+     "charCount": 591
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\BookExampleCode\\T5\\BinarySearchTest.java",
+     "charCount": 1167
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\BookExampleCode\\T6\\BinarySearchTest.java",
+     "charCount": 677
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\BookExampleCode\\T7\\BinarySearchTest.java",
+     "charCount": 688
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\BookExampleCode\\T8\\BinarySearchTest.java",
+     "charCount": 607
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\BookExampleCode\\T9\\BinarySearchTest.java",
+     "charCount": 572
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\PromptOnly\\T1\\BinarySearchTest.java",
+     "charCount": 661
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\PromptOnly\\T10\\BinarySearchTest.java",
+     "charCount": 774
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\PromptOnly\\T2\\BinarySearchTest.java",
+     "charCount": 595
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\PromptOnly\\T3\\BinarySearchTest.java",
+     "charCount": 666
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\PromptOnly\\T4\\BinarySearchTest.java",
+     "charCount": 662
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\PromptOnly\\T5\\BinarySearchTest.java",
+     "charCount": 602
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\PromptOnly\\T6\\BinarySearchTest.java",
+     "charCount": 617
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\PromptOnly\\T7\\BinarySearchTest.java",
+     "charCount": 862
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\PromptOnly\\T8\\BinarySearchTest.java",
+     "charCount": 579
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinarySearch\\PromptOnly\\T9\\BinarySearchTest.java",
+     "charCount": 799
+    }
+   ]
+  },
+  "BinaryToDecimal": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T1\\BinaryToDecimalTest.java",
+     "charCount": 922
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T10\\BinaryToDecimalTest.java",
+     "charCount": 534
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T2\\BinaryToDecimalTest.java",
+     "charCount": 938
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T3\\BinaryToDecimalTest.java",
+     "charCount": 657
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T4\\BinaryToDecimalTest.java",
+     "charCount": 956
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T5\\BinaryToDecimalTest.java",
+     "charCount": 951
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T6\\BinaryToDecimalTest.java",
+     "charCount": 626
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T7\\BinaryToDecimalTest.java",
+     "charCount": 591
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T8\\BinaryToDecimalTest.java",
+     "charCount": 592
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\AIGenerated\\T9\\BinaryToDecimalTest.java",
+     "charCount": 1144
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T1\\BinaryToDecimalTest.java",
+     "charCount": 808
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T10\\BinaryToDecimalTest.java",
+     "charCount": 1041
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T2\\BinaryToDecimalTest.java",
+     "charCount": 635
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T3\\BinaryToDecimalTest.java",
+     "charCount": 495
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T4\\BinaryToDecimalTest.java",
+     "charCount": 471
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T5\\BinaryToDecimalTest.java",
+     "charCount": 740
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T6\\BinaryToDecimalTest.java",
+     "charCount": 629
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T7\\BinaryToDecimalTest.java",
+     "charCount": 658
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T8\\BinaryToDecimalTest.java",
+     "charCount": 488
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\BookExampleCode\\T9\\BinaryToDecimalTest.java",
+     "charCount": 606
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T1\\BinaryToDecimalTest.java",
+     "charCount": 629
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T10\\BinaryToDecimalTest.java",
+     "charCount": 736
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T2\\BinaryToDecimalTest.java",
+     "charCount": 497
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T3\\BinaryToDecimalTest.java",
+     "charCount": 909
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T4\\BinaryToDecimalTest.java",
+     "charCount": 1082
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T5\\BinaryToDecimalTest.java",
+     "charCount": 675
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T6\\BinaryToDecimalTest.java",
+     "charCount": 545
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T7\\BinaryToDecimalTest.java",
+     "charCount": 811
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T8\\BinaryToDecimalTest.java",
+     "charCount": 855
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BinaryToDecimal\\PromptOnly\\T9\\BinaryToDecimalTest.java",
+     "charCount": 837
+    }
+   ]
+  },
+  "BreadthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T1\\GraphTest.java",
+     "charCount": 928
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T10\\GraphTest.java",
+     "charCount": 1054
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T2\\GraphTest.java",
+     "charCount": 880
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T3\\GraphTest.java",
+     "charCount": 904
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T4\\GraphTest.java",
+     "charCount": 755
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T5\\GraphTest.java",
+     "charCount": 864
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T6\\GraphTest.java",
+     "charCount": 779
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T7\\GraphTest.java",
+     "charCount": 827
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T8\\GraphTest.java",
+     "charCount": 757
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\AIGenerated\\T9\\GraphTest.java",
+     "charCount": 756
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T1\\GraphTest.java",
+     "charCount": 1267
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T10\\GraphTest.java",
+     "charCount": 1017
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T2\\GraphTest.java",
+     "charCount": 830
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T3\\GraphTest.java",
+     "charCount": 887
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T4\\GraphTest.java",
+     "charCount": 902
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T5\\GraphTest.java",
+     "charCount": 952
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T6\\GraphTest.java",
+     "charCount": 870
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T7\\GraphTest.java",
+     "charCount": 826
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T8\\GraphTest.java",
+     "charCount": 781
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\BookExampleCode\\T9\\GraphTest.java",
+     "charCount": 862
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T1\\GraphTest.java",
+     "charCount": 897
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T10\\GraphTest.java",
+     "charCount": 909
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T2\\GraphTest.java",
+     "charCount": 1009
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T3\\GraphTest.java",
+     "charCount": 895
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T4\\GraphTest.java",
+     "charCount": 963
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T5\\GraphTest.java",
+     "charCount": 997
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T6\\GraphTest.java",
+     "charCount": 963
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T7\\GraphTest.java",
+     "charCount": 1144
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T8\\GraphTest.java",
+     "charCount": 1012
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\BreadthFirstSearch\\PromptOnly\\T9\\GraphTest.java",
+     "charCount": 1134
+    }
+   ]
+  },
+  "DepthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T1\\DepthFirstSearchTest.java",
+     "charCount": 1377
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T10\\DepthFirstSearchTest.java",
+     "charCount": 1293
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T2\\DepthFirstSearchTest.java",
+     "charCount": 1173
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T3\\DepthFirstSearchTest.java",
+     "charCount": 1008
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T4\\DepthFirstSearchTest.java",
+     "charCount": 1104
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T5\\DepthFirstSearchTest.java",
+     "charCount": 1077
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T6\\DepthFirstSearchTest.java",
+     "charCount": 1220
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T7\\DepthFirstSearchTest.java",
+     "charCount": 1320
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T8\\DepthFirstSearchTest.java",
+     "charCount": 1167
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\AIGenerated\\T9\\DepthFirstSearchTest.java",
+     "charCount": 1167
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T1\\DepthFirstSearchTest.java",
+     "charCount": 1366
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T10\\DepthFirstSearchTest.java",
+     "charCount": 1174
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T2\\DepthFirstSearchTest.java",
+     "charCount": 1397
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T3\\DepthFirstSearchTest.java",
+     "charCount": 1148
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T4\\DepthFirstSearchTest.java",
+     "charCount": 1644
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T5\\DepthFirstSearchTest.java",
+     "charCount": 1520
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T6\\DepthFirstSearchTest.java",
+     "charCount": 1244
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T7\\DepthFirstSearchTest.java",
+     "charCount": 1435
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T8\\DepthFirstSearchTest.java",
+     "charCount": 1223
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\BookExampleCode\\T9\\DepthFirstSearchTest.java",
+     "charCount": 1302
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T1\\DepthFirstSearchTest.java",
+     "charCount": 1148
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T10\\DepthFirstSearchTest.java",
+     "charCount": 1220
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T2\\DepthFirstSearchTest.java",
+     "charCount": 1052
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T3\\DepthFirstSearchTest.java",
+     "charCount": 1078
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T4\\DepthFirstSearchTest.java",
+     "charCount": 931
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T5\\DepthFirstSearchTest.java",
+     "charCount": 1630
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T6\\DepthFirstSearchTest.java",
+     "charCount": 1494
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T7\\DepthFirstSearchTest.java",
+     "charCount": 986
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T8\\DepthFirstSearchTest.java",
+     "charCount": 1358
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\DepthFirstSearch\\PromptOnly\\T9\\DepthFirstSearchTest.java",
+     "charCount": 1007
+    }
+   ]
+  },
+  "Dijkstra": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\AIGenerated\\T1\\DijkstraTest.java",
+     "charCount": 1721
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\AIGenerated\\T10\\DijkstraTest.java",
+     "charCount": 1912
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\AIGenerated\\T2\\DijkstraTest.java",
+     "charCount": 1802
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\AIGenerated\\T3\\DijkstraTest.java",
+     "charCount": 1985
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\AIGenerated\\T4\\DijkstraTest.java",
+     "charCount": 2125
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\AIGenerated\\T5\\DijkstraTest.java",
+     "charCount": 1775
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\AIGenerated\\T6\\DijkstraTest.java",
+     "charCount": 1870
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\AIGenerated\\T7\\DijkstraTest.java",
+     "charCount": 1904
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\AIGenerated\\T8\\DijkstraTest.java",
+     "charCount": 1860
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\AIGenerated\\T9\\DijkstraTest.java",
+     "charCount": 1775
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\BookExampleCode\\T1\\DijkstraTest.java",
+     "charCount": 1978
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\BookExampleCode\\T10\\DijkstraTest.java",
+     "charCount": 1719
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\BookExampleCode\\T2\\DijkstraTest.java",
+     "charCount": 1952
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\BookExampleCode\\T3\\DijkstraTest.java",
+     "charCount": 1643
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\BookExampleCode\\T4\\DijkstraTest.java",
+     "charCount": 1832
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\BookExampleCode\\T5\\DijkstraTest.java",
+     "charCount": 1541
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\BookExampleCode\\T6\\DijkstraTest.java",
+     "charCount": 1477
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\BookExampleCode\\T7\\DijkstraTest.java",
+     "charCount": 1847
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\BookExampleCode\\T8\\DijkstraTest.java",
+     "charCount": 1629
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\BookExampleCode\\T9\\DijkstraTest.java",
+     "charCount": 1459
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\PromptOnly\\T1\\DijkstraTest.java",
+     "charCount": 2098
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\PromptOnly\\T10\\DijkstraTest.java",
+     "charCount": 1912
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\PromptOnly\\T2\\DijkstraTest.java",
+     "charCount": 2073
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\PromptOnly\\T3\\DijkstraTest.java",
+     "charCount": 1999
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\PromptOnly\\T4\\DijkstraTest.java",
+     "charCount": 2119
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\PromptOnly\\T5\\DijkstraTest.java",
+     "charCount": 1704
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\PromptOnly\\T6\\DijkstraTest.java",
+     "charCount": 1734
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\PromptOnly\\T7\\DijkstraTest.java",
+     "charCount": 2049
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\PromptOnly\\T8\\DijkstraTest.java",
+     "charCount": 1740
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Dijkstra\\PromptOnly\\T9\\DijkstraTest.java",
+     "charCount": 1788
+    }
+   ]
+  },
+  "EgyptianFractions": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\AIGenerated\\T1\\EgyptianFractionsTest.java",
+     "charCount": 831
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\AIGenerated\\T10\\EgyptianFractionsTest.java",
+     "charCount": 1042
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\AIGenerated\\T2\\EgyptianFractionsTest.java",
+     "charCount": 1031
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\AIGenerated\\T3\\EgyptianFractionsTest.java",
+     "charCount": 941
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\AIGenerated\\T4\\EgyptianFractionsTest.java",
+     "charCount": 885
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\AIGenerated\\T5\\EgyptianFractionsTest.java",
+     "charCount": 684
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\AIGenerated\\T6\\EgyptianFractionsTest.java",
+     "charCount": 806
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\AIGenerated\\T7\\EgyptianFractionsTest.java",
+     "charCount": 645
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\AIGenerated\\T8\\EgyptianFractionsTest.java",
+     "charCount": 824
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\AIGenerated\\T9\\EgyptianFractionsTest.java",
+     "charCount": 1009
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T1\\EgyptianFractionsTest.java",
+     "charCount": 681
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T10\\EgyptianFractionsTest.java",
+     "charCount": 1000
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T2\\EgyptianFractionsTest.java",
+     "charCount": 1079
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T3\\EgyptianFractionsTest.java",
+     "charCount": 748
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T4\\EgyptianFractionsTest.java",
+     "charCount": 725
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T5\\EgyptianFractionsTest.java",
+     "charCount": 782
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T6\\EgyptianFractionsTest.java",
+     "charCount": 889
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T7\\EgyptianFractionsTest.java",
+     "charCount": 900
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T8\\EgyptianFractionsTest.java",
+     "charCount": 821
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\BookExampleCode\\T9\\EgyptianFractionsTest.java",
+     "charCount": 616
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\PromptOnly\\T1\\EgyptianFractionsTest.java",
+     "charCount": 812
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\PromptOnly\\T10\\EgyptianFractionsTest.java",
+     "charCount": 689
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\PromptOnly\\T2\\EgyptianFractionsTest.java",
+     "charCount": 1054
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\PromptOnly\\T3\\EgyptianFractionsTest.java",
+     "charCount": 884
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\PromptOnly\\T4\\EgyptianFractionsTest.java",
+     "charCount": 828
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\PromptOnly\\T5\\EgyptianFractionsTest.java",
+     "charCount": 924
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\PromptOnly\\T6\\EgyptianFractionsTest.java",
+     "charCount": 642
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\PromptOnly\\T7\\EgyptianFractionsTest.java",
+     "charCount": 968
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\PromptOnly\\T8\\EgyptianFractionsTest.java",
+     "charCount": 1305
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\EgyptianFractions\\PromptOnly\\T9\\EgyptianFractionsTest.java",
+     "charCount": 789
+    }
+   ]
+  },
+  "FloydWarshall": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\AIGenerated\\T1\\FloydWarshallTest.java",
+     "charCount": 1037
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\AIGenerated\\T10\\FloydWarshallTest.java",
+     "charCount": 1757
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\AIGenerated\\T2\\FloydWarshallTest.java",
+     "charCount": 1356
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\AIGenerated\\T3\\FloydWarshallTest.java",
+     "charCount": 1112
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\AIGenerated\\T4\\FloydWarshallTest.java",
+     "charCount": 1429
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\AIGenerated\\T5\\FloydWarshallTest.java",
+     "charCount": 1545
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\AIGenerated\\T6\\FloydWarshallTest.java",
+     "charCount": 1458
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\AIGenerated\\T7\\FloydWarshallTest.java",
+     "charCount": 1671
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\AIGenerated\\T8\\FloydWarshallTest.java",
+     "charCount": 1050
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\AIGenerated\\T9\\FloydWarshallTest.java",
+     "charCount": 1626
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\BookExampleCode\\T1\\FloydWarshallTest.java",
+     "charCount": 1377
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\BookExampleCode\\T10\\FloydWarshallTest.java",
+     "charCount": 1161
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\BookExampleCode\\T2\\FloydWarshallTest.java",
+     "charCount": 1254
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\BookExampleCode\\T3\\FloydWarshallTest.java",
+     "charCount": 1361
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\BookExampleCode\\T4\\FloydWarshallTest.java",
+     "charCount": 1630
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\BookExampleCode\\T5\\FloydWarshallTest.java",
+     "charCount": 1220
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\BookExampleCode\\T6\\FloydWarshallTest.java",
+     "charCount": 1581
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\BookExampleCode\\T7\\FloydWarshallTest.java",
+     "charCount": 1495
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\BookExampleCode\\T8\\FloydWarshallTest.java",
+     "charCount": 1281
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\BookExampleCode\\T9\\FloydWarshallTest.java",
+     "charCount": 1740
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\PromptOnly\\T1\\FloydWarshallTest.java",
+     "charCount": 1015
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\PromptOnly\\T10\\FloydWarshallTest.java",
+     "charCount": 1520
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\PromptOnly\\T2\\FloydWarshallTest.java",
+     "charCount": 1200
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\PromptOnly\\T3\\FloydWarshallTest.java",
+     "charCount": 1402
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\PromptOnly\\T4\\FloydWarshallTest.java",
+     "charCount": 1528
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\PromptOnly\\T5\\FloydWarshallTest.java",
+     "charCount": 1428
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\PromptOnly\\T6\\FloydWarshallTest.java",
+     "charCount": 1989
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\PromptOnly\\T7\\FloydWarshallTest.java",
+     "charCount": 1766
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\PromptOnly\\T8\\FloydWarshallTest.java",
+     "charCount": 1307
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\FloydWarshall\\PromptOnly\\T9\\FloydWarshallTest.java",
+     "charCount": 1207
+    }
+   ]
+  },
+  "Knapsack": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\AIGenerated\\T1\\KnapsackTest.java",
+     "charCount": 693
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\AIGenerated\\T10\\KnapsackTest.java",
+     "charCount": 724
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\AIGenerated\\T2\\KnapsackTest.java",
+     "charCount": 647
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\AIGenerated\\T3\\KnapsackTest.java",
+     "charCount": 712
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\AIGenerated\\T4\\KnapsackTest.java",
+     "charCount": 815
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\AIGenerated\\T5\\KnapsackTest.java",
+     "charCount": 742
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\AIGenerated\\T6\\KnapsackTest.java",
+     "charCount": 676
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\AIGenerated\\T7\\KnapsackTest.java",
+     "charCount": 656
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\AIGenerated\\T8\\KnapsackTest.java",
+     "charCount": 845
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\AIGenerated\\T9\\KnapsackTest.java",
+     "charCount": 723
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\BookExampleCode\\T1\\KnapsackTest.java",
+     "charCount": 767
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\BookExampleCode\\T10\\KnapsackTest.java",
+     "charCount": 832
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\BookExampleCode\\T2\\KnapsackTest.java",
+     "charCount": 875
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\BookExampleCode\\T3\\KnapsackTest.java",
+     "charCount": 834
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\BookExampleCode\\T4\\KnapsackTest.java",
+     "charCount": 859
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\BookExampleCode\\T5\\KnapsackTest.java",
+     "charCount": 759
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\BookExampleCode\\T6\\KnapsackTest.java",
+     "charCount": 708
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\BookExampleCode\\T7\\KnapsackTest.java",
+     "charCount": 729
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\BookExampleCode\\T8\\KnapsackTest.java",
+     "charCount": 838
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\BookExampleCode\\T9\\KnapsackTest.java",
+     "charCount": 760
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\PromptOnly\\T1\\KnapsackTest.java",
+     "charCount": 691
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\PromptOnly\\T10\\KnapsackTest.java",
+     "charCount": 672
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\PromptOnly\\T2\\KnapsackTest.java",
+     "charCount": 675
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\PromptOnly\\T3\\KnapsackTest.java",
+     "charCount": 829
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\PromptOnly\\T4\\KnapsackTest.java",
+     "charCount": 875
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\PromptOnly\\T5\\KnapsackTest.java",
+     "charCount": 678
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\PromptOnly\\T6\\KnapsackTest.java",
+     "charCount": 848
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\PromptOnly\\T7\\KnapsackTest.java",
+     "charCount": 784
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\PromptOnly\\T8\\KnapsackTest.java",
+     "charCount": 742
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Knapsack\\PromptOnly\\T9\\KnapsackTest.java",
+     "charCount": 742
+    }
+   ]
+  },
+  "Kruskal": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\AIGenerated\\T1\\KruskalTest.java",
+     "charCount": 1341
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\AIGenerated\\T10\\KruskalTest.java",
+     "charCount": 1217
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\AIGenerated\\T2\\KruskalTest.java",
+     "charCount": 1529
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\AIGenerated\\T3\\KruskalTest.java",
+     "charCount": 1566
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\AIGenerated\\T4\\KruskalTest.java",
+     "charCount": 1322
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\AIGenerated\\T5\\KruskalTest.java",
+     "charCount": 1263
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\AIGenerated\\T6\\KruskalTest.java",
+     "charCount": 1805
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\AIGenerated\\T7\\KruskalTest.java",
+     "charCount": 1557
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\AIGenerated\\T8\\KruskalTest.java",
+     "charCount": 1622
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\AIGenerated\\T9\\KruskalTest.java",
+     "charCount": 1086
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\BookExampleCode\\T1\\KruskalTest.java",
+     "charCount": 1649
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\BookExampleCode\\T10\\KruskalTest.java",
+     "charCount": 1350
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\BookExampleCode\\T2\\KruskalTest.java",
+     "charCount": 1735
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\BookExampleCode\\T3\\KruskalTest.java",
+     "charCount": 1344
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\BookExampleCode\\T4\\KruskalTest.java",
+     "charCount": 1690
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\BookExampleCode\\T5\\KruskalTest.java",
+     "charCount": 1482
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\BookExampleCode\\T6\\KruskalTest.java",
+     "charCount": 1754
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\BookExampleCode\\T7\\KruskalTest.java",
+     "charCount": 1715
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\BookExampleCode\\T8\\KruskalTest.java",
+     "charCount": 1426
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\BookExampleCode\\T9\\KruskalTest.java",
+     "charCount": 1529
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\PromptOnly\\T1\\KruskalTest.java",
+     "charCount": 1348
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\PromptOnly\\T10\\KruskalTest.java",
+     "charCount": 1036
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\PromptOnly\\T2\\KruskalTest.java",
+     "charCount": 1150
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\PromptOnly\\T3\\KruskalTest.java",
+     "charCount": 1163
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\PromptOnly\\T4\\KruskalTest.java",
+     "charCount": 1380
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\PromptOnly\\T5\\KruskalTest.java",
+     "charCount": 1500
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\PromptOnly\\T6\\KruskalTest.java",
+     "charCount": 1500
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\PromptOnly\\T7\\KruskalTest.java",
+     "charCount": 1537
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\PromptOnly\\T8\\KruskalTest.java",
+     "charCount": 1183
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\Kruskal\\PromptOnly\\T9\\KruskalTest.java",
+     "charCount": 1590
+    }
+   ]
+  },
+  "MergeSort": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\AIGenerated\\T1\\MergeSortTest.java",
+     "charCount": 591
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\AIGenerated\\T10\\MergeSortTest.java",
+     "charCount": 720
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\AIGenerated\\T2\\MergeSortTest.java",
+     "charCount": 778
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\AIGenerated\\T3\\MergeSortTest.java",
+     "charCount": 662
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\AIGenerated\\T4\\MergeSortTest.java",
+     "charCount": 794
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\AIGenerated\\T5\\MergeSortTest.java",
+     "charCount": 754
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\AIGenerated\\T6\\MergeSortTest.java",
+     "charCount": 789
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\AIGenerated\\T7\\MergeSortTest.java",
+     "charCount": 760
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\AIGenerated\\T8\\MergeSortTest.java",
+     "charCount": 597
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\AIGenerated\\T9\\MergeSortTest.java",
+     "charCount": 794
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\BookExampleCode\\T1\\MergeSortTest.java",
+     "charCount": 695
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\BookExampleCode\\T10\\MergeSortTest.java",
+     "charCount": 650
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\BookExampleCode\\T2\\MergeSortTest.java",
+     "charCount": 824
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\BookExampleCode\\T3\\MergeSortTest.java",
+     "charCount": 594
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\BookExampleCode\\T4\\MergeSortTest.java",
+     "charCount": 598
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\BookExampleCode\\T5\\MergeSortTest.java",
+     "charCount": 616
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\BookExampleCode\\T6\\MergeSortTest.java",
+     "charCount": 625
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\BookExampleCode\\T7\\MergeSortTest.java",
+     "charCount": 826
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\BookExampleCode\\T8\\MergeSortTest.java",
+     "charCount": 685
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\BookExampleCode\\T9\\MergeSortTest.java",
+     "charCount": 813
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\PromptOnly\\T1\\MergeSortTest.java",
+     "charCount": 578
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\PromptOnly\\T10\\MergeSortTest.java",
+     "charCount": 505
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\PromptOnly\\T2\\MergeSortTest.java",
+     "charCount": 533
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\PromptOnly\\T3\\MergeSortTest.java",
+     "charCount": 681
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\PromptOnly\\T4\\MergeSortTest.java",
+     "charCount": 615
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\PromptOnly\\T5\\MergeSortTest.java",
+     "charCount": 516
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\PromptOnly\\T6\\MergeSortTest.java",
+     "charCount": 555
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\PromptOnly\\T7\\MergeSortTest.java",
+     "charCount": 589
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\PromptOnly\\T8\\MergeSortTest.java",
+     "charCount": 469
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\MergeSort\\PromptOnly\\T9\\MergeSortTest.java",
+     "charCount": 522
+    }
+   ]
+  },
+  "QuickSort": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\AIGenerated\\T1\\QuickSortTest.java",
+     "charCount": 710
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\AIGenerated\\T10\\QuickSortTest.java",
+     "charCount": 576
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\AIGenerated\\T2\\QuickSortTest.java",
+     "charCount": 591
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\AIGenerated\\T3\\QuickSortTest.java",
+     "charCount": 750
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\AIGenerated\\T4\\QuickSortTest.java",
+     "charCount": 539
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\AIGenerated\\T5\\QuickSortTest.java",
+     "charCount": 608
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\AIGenerated\\T6\\QuickSortTest.java",
+     "charCount": 590
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\AIGenerated\\T7\\QuickSortTest.java",
+     "charCount": 574
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\AIGenerated\\T8\\QuickSortTest.java",
+     "charCount": 738
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\AIGenerated\\T9\\QuickSortTest.java",
+     "charCount": 781
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\BookExampleCode\\T1\\QuickSortTest.java",
+     "charCount": 594
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\BookExampleCode\\T10\\QuickSortTest.java",
+     "charCount": 562
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\BookExampleCode\\T2\\QuickSortTest.java",
+     "charCount": 741
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\BookExampleCode\\T3\\QuickSortTest.java",
+     "charCount": 554
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\BookExampleCode\\T4\\QuickSortTest.java",
+     "charCount": 593
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\BookExampleCode\\T5\\QuickSortTest.java",
+     "charCount": 601
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\BookExampleCode\\T6\\QuickSortTest.java",
+     "charCount": 675
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\BookExampleCode\\T7\\QuickSortTest.java",
+     "charCount": 595
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\BookExampleCode\\T8\\QuickSortTest.java",
+     "charCount": 774
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\BookExampleCode\\T9\\QuickSortTest.java",
+     "charCount": 591
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\PromptOnly\\T1\\QuickSortTest.java",
+     "charCount": 641
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\PromptOnly\\T10\\QuickSortTest.java",
+     "charCount": 796
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\PromptOnly\\T2\\QuickSortTest.java",
+     "charCount": 571
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\PromptOnly\\T3\\QuickSortTest.java",
+     "charCount": 555
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\PromptOnly\\T4\\QuickSortTest.java",
+     "charCount": 481
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\PromptOnly\\T5\\QuickSortTest.java",
+     "charCount": 464
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\PromptOnly\\T6\\QuickSortTest.java",
+     "charCount": 566
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\PromptOnly\\T7\\QuickSortTest.java",
+     "charCount": 486
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\PromptOnly\\T8\\QuickSortTest.java",
+     "charCount": 566
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\ChatGPT\\QuickSort\\PromptOnly\\T9\\QuickSortTest.java",
+     "charCount": 761
+    }
+   ]
+  }
+ },
+ "Copilot": {
+  "BellmanFord": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\AIGenerated\\T1\\BellmanFordTest.java",
+     "charCount": 1150
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\AIGenerated\\T10\\BellmanFordTest.java",
+     "charCount": 1111
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\AIGenerated\\T2\\BellmanFordTest.java",
+     "charCount": 1051
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\AIGenerated\\T3\\BellmanFordTest.java",
+     "charCount": 1215
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\AIGenerated\\T4\\BellmanFordTest.java",
+     "charCount": 1156
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\AIGenerated\\T5\\BellmanFordTest.java",
+     "charCount": 1150
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\AIGenerated\\T6\\BellmanFordTest.java",
+     "charCount": 875
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\AIGenerated\\T7\\BellmanFordTest.java",
+     "charCount": 1209
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\AIGenerated\\T8\\BellmanFordTest.java",
+     "charCount": 1244
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\AIGenerated\\T9\\BellmanFordTest.java",
+     "charCount": 1216
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\BookExampleCode\\T1\\BellmanFordTest.java",
+     "charCount": 1210
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\BookExampleCode\\T10\\BellmanFordTest.java",
+     "charCount": 1137
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\BookExampleCode\\T2\\BellmanFordTest.java",
+     "charCount": 1187
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\BookExampleCode\\T3\\BellmanFordTest.java",
+     "charCount": 1212
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\BookExampleCode\\T4\\BellmanFordTest.java",
+     "charCount": 1221
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\BookExampleCode\\T5\\BellmanFordTest.java",
+     "charCount": 1236
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\BookExampleCode\\T6\\BellmanFordTest.java",
+     "charCount": 1170
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\BookExampleCode\\T7\\BellmanFordTest.java",
+     "charCount": 1160
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\BookExampleCode\\T8\\BellmanFordTest.java",
+     "charCount": 1239
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\BookExampleCode\\T9\\BellmanFordTest.java",
+     "charCount": 1236
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\PromptOnly\\T1\\BellmanFordTest.java",
+     "charCount": 1328
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\PromptOnly\\T10\\BellmanFordTest.java",
+     "charCount": 1099
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\PromptOnly\\T2\\BellmanFordTest.java",
+     "charCount": 1211
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\PromptOnly\\T3\\BellmanFordTest.java",
+     "charCount": 1139
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\PromptOnly\\T4\\BellmanFordTest.java",
+     "charCount": 1174
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\PromptOnly\\T5\\BellmanFordTest.java",
+     "charCount": 1207
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\PromptOnly\\T6\\BellmanFordTest.java",
+     "charCount": 1146
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\PromptOnly\\T7\\BellmanFordTest.java",
+     "charCount": 1241
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\PromptOnly\\T8\\BellmanFordTest.java",
+     "charCount": 1139
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BellmanFord\\PromptOnly\\T9\\BellmanFordTest.java",
+     "charCount": 1212
+    }
+   ]
+  },
+  "BinarySearch": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\AIGenerated\\T1\\BinarySearchTest.java",
+     "charCount": 421
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\AIGenerated\\T10\\BinarySearchTest.java",
+     "charCount": 592
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\AIGenerated\\T2\\BinarySearchTest.java",
+     "charCount": 334
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\AIGenerated\\T3\\BinarySearchTest.java",
+     "charCount": 309
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\AIGenerated\\T4\\BinarySearchTest.java",
+     "charCount": 233
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\AIGenerated\\T5\\BinarySearchTest.java",
+     "charCount": 356
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\AIGenerated\\T6\\BinarySearchTest.java",
+     "charCount": 279
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\AIGenerated\\T7\\BinarySearchTest.java",
+     "charCount": 493
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\AIGenerated\\T8\\BinarySearchTest.java",
+     "charCount": 382
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\AIGenerated\\T9\\BinarySearchTest.java",
+     "charCount": 386
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\BookExampleCode\\T1\\BinarySearchTest.java",
+     "charCount": 320
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\BookExampleCode\\T10\\BinarySearchTest.java",
+     "charCount": 289
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\BookExampleCode\\T2\\BinarySearchTest.java",
+     "charCount": 576
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\BookExampleCode\\T3\\BinarySearchTest.java",
+     "charCount": 338
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\BookExampleCode\\T4\\BinarySearchTest.java",
+     "charCount": 467
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\BookExampleCode\\T5\\BinarySearchTest.java",
+     "charCount": 586
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\BookExampleCode\\T6\\BinarySearchTest.java",
+     "charCount": 571
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\BookExampleCode\\T7\\BinarySearchTest.java",
+     "charCount": 321
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\BookExampleCode\\T8\\BinarySearchTest.java",
+     "charCount": 743
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\BookExampleCode\\T9\\BinarySearchTest.java",
+     "charCount": 572
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\PromptOnly\\T1\\BinarySearchTest.java",
+     "charCount": 407
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\PromptOnly\\T10\\BinarySearchTest.java",
+     "charCount": 658
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\PromptOnly\\T2\\BinarySearchTest.java",
+     "charCount": 380
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\PromptOnly\\T3\\BinarySearchTest.java",
+     "charCount": 511
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\PromptOnly\\T4\\BinarySearchTest.java",
+     "charCount": 306
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\PromptOnly\\T5\\BinarySearchTest.java",
+     "charCount": 346
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\PromptOnly\\T6\\BinarySearchTest.java",
+     "charCount": 438
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\PromptOnly\\T7\\BinarySearchTest.java",
+     "charCount": 441
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\PromptOnly\\T8\\BinarySearchTest.java",
+     "charCount": 417
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinarySearch\\PromptOnly\\T9\\BinarySearchTest.java",
+     "charCount": 559
+    }
+   ]
+  },
+  "BinaryToDecimal": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\AIGenerated\\T1\\BinaryToDecimalTest.java",
+     "charCount": 246
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\AIGenerated\\T10\\BinaryToDecimalTest.java",
+     "charCount": 503
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\AIGenerated\\T2\\BinaryToDecimalTest.java",
+     "charCount": 524
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\AIGenerated\\T3\\BinaryToDecimalTest.java",
+     "charCount": 517
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\AIGenerated\\T4\\BinaryToDecimalTest.java",
+     "charCount": 527
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\AIGenerated\\T5\\BinaryToDecimalTest.java",
+     "charCount": 285
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\AIGenerated\\T6\\BinaryToDecimalTest.java",
+     "charCount": 571
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\AIGenerated\\T7\\BinaryToDecimalTest.java",
+     "charCount": 1716
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\AIGenerated\\T8\\BinaryToDecimalTest.java",
+     "charCount": 584
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\AIGenerated\\T9\\BinaryToDecimalTest.java",
+     "charCount": 336
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\BookExampleCode\\T1\\BinaryToDecimalTest.java",
+     "charCount": 578
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\BookExampleCode\\T10\\BinaryToDecimalTest.java",
+     "charCount": 300
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\BookExampleCode\\T2\\BinaryToDecimalTest.java",
+     "charCount": 449
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\BookExampleCode\\T3\\BinaryToDecimalTest.java",
+     "charCount": 447
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\BookExampleCode\\T4\\BinaryToDecimalTest.java",
+     "charCount": 1721
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\BookExampleCode\\T5\\BinaryToDecimalTest.java",
+     "charCount": 401
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\BookExampleCode\\T6\\BinaryToDecimalTest.java",
+     "charCount": 420
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\BookExampleCode\\T7\\BinaryToDecimalTest.java",
+     "charCount": 1720
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\BookExampleCode\\T8\\BinaryToDecimalTest.java",
+     "charCount": 337
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\BookExampleCode\\T9\\BinaryToDecimalTest.java",
+     "charCount": 1962
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\PromptOnly\\T1\\BinaryToDecimalTest.java",
+     "charCount": 1955
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\PromptOnly\\T10\\BinaryToDecimalTest.java",
+     "charCount": 1127
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\PromptOnly\\T2\\BinaryToDecimalTest.java",
+     "charCount": 2076
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\PromptOnly\\T3\\BinaryToDecimalTest.java",
+     "charCount": 945
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\PromptOnly\\T4\\BinaryToDecimalTest.java",
+     "charCount": 1419
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\PromptOnly\\T5\\BinaryToDecimalTest.java",
+     "charCount": 1967
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\PromptOnly\\T6\\BinaryToDecimalTest.java",
+     "charCount": 1713
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\PromptOnly\\T7\\BinaryToDecimalTest.java",
+     "charCount": 1976
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\PromptOnly\\T8\\BinaryToDecimalTest.java",
+     "charCount": 1726
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BinaryToDecimal\\PromptOnly\\T9\\BinaryToDecimalTest.java",
+     "charCount": 385
+    }
+   ]
+  },
+  "BreadthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\AIGenerated\\T1\\GraphTest.java",
+     "charCount": 519
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\AIGenerated\\T10\\GraphTest.java",
+     "charCount": 443
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\AIGenerated\\T2\\GraphTest.java",
+     "charCount": 441
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\AIGenerated\\T3\\GraphTest.java",
+     "charCount": 1141
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\AIGenerated\\T4\\GraphTest.java",
+     "charCount": 442
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\AIGenerated\\T5\\GraphTest.java",
+     "charCount": 519
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\AIGenerated\\T6\\GraphTest.java",
+     "charCount": 442
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\AIGenerated\\T7\\GraphTest.java",
+     "charCount": 1419
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\AIGenerated\\T8\\GraphTest.java",
+     "charCount": 519
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\AIGenerated\\T9\\GraphTest.java",
+     "charCount": 442
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T1\\GraphTest.java",
+     "charCount": 410
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T10\\GraphTest.java",
+     "charCount": 1146
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T2\\GraphTest.java",
+     "charCount": 646
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T3\\GraphTest.java",
+     "charCount": 741
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T4\\GraphTest.java",
+     "charCount": 445
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T5\\GraphTest.java",
+     "charCount": 824
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T6\\GraphTest.java",
+     "charCount": 797
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T7\\GraphTest.java",
+     "charCount": 523
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T8\\GraphTest.java",
+     "charCount": 705
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\BookExampleCode\\T9\\GraphTest.java",
+     "charCount": 446
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\PromptOnly\\T1\\GraphTest.java",
+     "charCount": 1284
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\PromptOnly\\T10\\GraphTest.java",
+     "charCount": 283
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\PromptOnly\\T2\\GraphTest.java",
+     "charCount": 370
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\PromptOnly\\T3\\GraphTest.java",
+     "charCount": 1405
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\PromptOnly\\T4\\GraphTest.java",
+     "charCount": 1142
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\PromptOnly\\T5\\GraphTest.java",
+     "charCount": 826
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\PromptOnly\\T6\\GraphTest.java",
+     "charCount": 1008
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\PromptOnly\\T7\\GraphTest.java",
+     "charCount": 322
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\PromptOnly\\T8\\GraphTest.java",
+     "charCount": 322
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\BreadthFirstSearch\\PromptOnly\\T9\\GraphTest.java",
+     "charCount": 1076
+    }
+   ]
+  },
+  "DepthFirstSearch": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\AIGenerated\\T1\\DepthFirstSearchTest.java",
+     "charCount": 652
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\AIGenerated\\T10\\DepthFirstSearchTest.java",
+     "charCount": 1350
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\AIGenerated\\T2\\DepthFirstSearchTest.java",
+     "charCount": 1340
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\AIGenerated\\T3\\DepthFirstSearchTest.java",
+     "charCount": 540
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\AIGenerated\\T4\\DepthFirstSearchTest.java",
+     "charCount": 1429
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\AIGenerated\\T5\\DepthFirstSearchTest.java",
+     "charCount": 594
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\AIGenerated\\T6\\DepthFirstSearchTest.java",
+     "charCount": 1340
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\AIGenerated\\T7\\DepthFirstSearchTest.java",
+     "charCount": 1304
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\AIGenerated\\T8\\DepthFirstSearchTest.java",
+     "charCount": 590
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\AIGenerated\\T9\\DepthFirstSearchTest.java",
+     "charCount": 1305
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\BookExampleCode\\T1\\DepthFirstSearchTest.java",
+     "charCount": 769
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\BookExampleCode\\T10\\DepthFirstSearchTest.java",
+     "charCount": 1345
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\BookExampleCode\\T2\\DepthFirstSearchTest.java",
+     "charCount": 1009
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\BookExampleCode\\T3\\DepthFirstSearchTest.java",
+     "charCount": 1346
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\BookExampleCode\\T4\\DepthFirstSearchTest.java",
+     "charCount": 580
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\BookExampleCode\\T5\\DepthFirstSearchTest.java",
+     "charCount": 656
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\BookExampleCode\\T6\\DepthFirstSearchTest.java",
+     "charCount": 1344
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\BookExampleCode\\T7\\DepthFirstSearchTest.java",
+     "charCount": 608
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\BookExampleCode\\T8\\DepthFirstSearchTest.java",
+     "charCount": 1171
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\BookExampleCode\\T9\\DepthFirstSearchTest.java",
+     "charCount": 598
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\PromptOnly\\T1\\DepthFirstSearchTest.java",
+     "charCount": 694
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\PromptOnly\\T10\\DepthFirstSearchTest.java",
+     "charCount": 556
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\PromptOnly\\T2\\DepthFirstSearchTest.java",
+     "charCount": 1229
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\PromptOnly\\T3\\DepthFirstSearchTest.java",
+     "charCount": 1005
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\PromptOnly\\T4\\DepthFirstSearchTest.java",
+     "charCount": 938
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\PromptOnly\\T5\\DepthFirstSearchTest.java",
+     "charCount": 1289
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\PromptOnly\\T6\\DepthFirstSearchTest.java",
+     "charCount": 562
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\PromptOnly\\T7\\DepthFirstSearchTest.java",
+     "charCount": 1277
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\PromptOnly\\T8\\DepthFirstSearchTest.java",
+     "charCount": 586
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\DepthFirstSearch\\PromptOnly\\T9\\DepthFirstSearchTest.java",
+     "charCount": 1464
+    }
+   ]
+  },
+  "Dijkstra": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\AIGenerated\\T1\\DijkstraTest.java",
+     "charCount": 1146
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\AIGenerated\\T10\\DijkstraTest.java",
+     "charCount": 1139
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\AIGenerated\\T2\\DijkstraTest.java",
+     "charCount": 1157
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\AIGenerated\\T3\\DijkstraTest.java",
+     "charCount": 1182
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\AIGenerated\\T4\\DijkstraTest.java",
+     "charCount": 1130
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\AIGenerated\\T5\\DijkstraTest.java",
+     "charCount": 1121
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\AIGenerated\\T6\\DijkstraTest.java",
+     "charCount": 1168
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\AIGenerated\\T7\\DijkstraTest.java",
+     "charCount": 1049
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\AIGenerated\\T8\\DijkstraTest.java",
+     "charCount": 1157
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\AIGenerated\\T9\\DijkstraTest.java",
+     "charCount": 1180
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\BookExampleCode\\T1\\DijkstraTest.java",
+     "charCount": 864
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\BookExampleCode\\T10\\DijkstraTest.java",
+     "charCount": 1151
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\BookExampleCode\\T2\\DijkstraTest.java",
+     "charCount": 1063
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\BookExampleCode\\T3\\DijkstraTest.java",
+     "charCount": 1156
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\BookExampleCode\\T4\\DijkstraTest.java",
+     "charCount": 1129
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\BookExampleCode\\T5\\DijkstraTest.java",
+     "charCount": 1179
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\BookExampleCode\\T6\\DijkstraTest.java",
+     "charCount": 1256
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\BookExampleCode\\T7\\DijkstraTest.java",
+     "charCount": 520
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\BookExampleCode\\T8\\DijkstraTest.java",
+     "charCount": 1117
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\BookExampleCode\\T9\\DijkstraTest.java",
+     "charCount": 1249
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\PromptOnly\\T1\\DijkstraTest.java",
+     "charCount": 1141
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\PromptOnly\\T10\\DijkstraTest.java",
+     "charCount": 1099
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\PromptOnly\\T2\\DijkstraTest.java",
+     "charCount": 928
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\PromptOnly\\T3\\DijkstraTest.java",
+     "charCount": 929
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\PromptOnly\\T4\\DijkstraTest.java",
+     "charCount": 1264
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\PromptOnly\\T5\\DijkstraTest.java",
+     "charCount": 1105
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\PromptOnly\\T6\\DijkstraTest.java",
+     "charCount": 1185
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\PromptOnly\\T7\\DijkstraTest.java",
+     "charCount": 1108
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\PromptOnly\\T8\\DijkstraTest.java",
+     "charCount": 1119
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Dijkstra\\PromptOnly\\T9\\DijkstraTest.java",
+     "charCount": 1180
+    }
+   ]
+  },
+  "EgyptianFractions": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\AIGenerated\\T1\\EgyptianFractionsTest.java",
+     "charCount": 391
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\AIGenerated\\T10\\EgyptianFractionsTest.java",
+     "charCount": 805
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\AIGenerated\\T2\\EgyptianFractionsTest.java",
+     "charCount": 887
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\AIGenerated\\T3\\EgyptianFractionsTest.java",
+     "charCount": 1605
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\AIGenerated\\T4\\EgyptianFractionsTest.java",
+     "charCount": 867
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\AIGenerated\\T5\\EgyptianFractionsTest.java",
+     "charCount": 879
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\AIGenerated\\T6\\EgyptianFractionsTest.java",
+     "charCount": 408
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\AIGenerated\\T7\\EgyptianFractionsTest.java",
+     "charCount": 905
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\AIGenerated\\T8\\EgyptianFractionsTest.java",
+     "charCount": 1262
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\AIGenerated\\T9\\EgyptianFractionsTest.java",
+     "charCount": 822
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\BookExampleCode\\T1\\EgyptianFractionsTest.java",
+     "charCount": 679
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\BookExampleCode\\T10\\EgyptianFractionsTest.java",
+     "charCount": 679
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\BookExampleCode\\T2\\EgyptianFractionsTest.java",
+     "charCount": 1075
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\BookExampleCode\\T3\\EgyptianFractionsTest.java",
+     "charCount": 630
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\BookExampleCode\\T4\\EgyptianFractionsTest.java",
+     "charCount": 635
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\BookExampleCode\\T5\\EgyptianFractionsTest.java",
+     "charCount": 751
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\BookExampleCode\\T6\\EgyptianFractionsTest.java",
+     "charCount": 829
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\BookExampleCode\\T7\\EgyptianFractionsTest.java",
+     "charCount": 597
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\BookExampleCode\\T8\\EgyptianFractionsTest.java",
+     "charCount": 668
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\BookExampleCode\\T9\\EgyptianFractionsTest.java",
+     "charCount": 389
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\PromptOnly\\T1\\EgyptianFractionsTest.java",
+     "charCount": 811
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\PromptOnly\\T10\\EgyptianFractionsTest.java",
+     "charCount": 371
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\PromptOnly\\T2\\EgyptianFractionsTest.java",
+     "charCount": 726
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\PromptOnly\\T3\\EgyptianFractionsTest.java",
+     "charCount": 686
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\PromptOnly\\T4\\EgyptianFractionsTest.java",
+     "charCount": 609
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\PromptOnly\\T5\\EgyptianFractionsTest.java",
+     "charCount": 747
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\PromptOnly\\T6\\EgyptianFractionsTest.java",
+     "charCount": 211
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\PromptOnly\\T7\\EgyptianFractionsTest.java",
+     "charCount": 617
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\PromptOnly\\T8\\EgyptianFractionsTest.java",
+     "charCount": 611
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\EgyptianFractions\\PromptOnly\\T9\\EgyptianFractionsTest.java",
+     "charCount": 791
+    }
+   ]
+  },
+  "FloydWarshall": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\AIGenerated\\T1\\FloydWarshallTest.java",
+     "charCount": 1296
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\AIGenerated\\T10\\FloydWarshallTest.java",
+     "charCount": 1336
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\AIGenerated\\T2\\FloydWarshallTest.java",
+     "charCount": 1264
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\AIGenerated\\T3\\FloydWarshallTest.java",
+     "charCount": 1176
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\AIGenerated\\T4\\FloydWarshallTest.java",
+     "charCount": 1276
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\AIGenerated\\T5\\FloydWarshallTest.java",
+     "charCount": 1335
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\AIGenerated\\T6\\FloydWarshallTest.java",
+     "charCount": 1255
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\AIGenerated\\T7\\FloydWarshallTest.java",
+     "charCount": 1176
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\AIGenerated\\T8\\FloydWarshallTest.java",
+     "charCount": 1156
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\AIGenerated\\T9\\FloydWarshallTest.java",
+     "charCount": 1227
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\BookExampleCode\\T1\\FloydWarshallTest.java",
+     "charCount": 1311
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\BookExampleCode\\T10\\FloydWarshallTest.java",
+     "charCount": 1314
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\BookExampleCode\\T2\\FloydWarshallTest.java",
+     "charCount": 1242
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\BookExampleCode\\T3\\FloydWarshallTest.java",
+     "charCount": 1312
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\BookExampleCode\\T4\\FloydWarshallTest.java",
+     "charCount": 1220
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\BookExampleCode\\T5\\FloydWarshallTest.java",
+     "charCount": 1322
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\BookExampleCode\\T6\\FloydWarshallTest.java",
+     "charCount": 1313
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\BookExampleCode\\T7\\FloydWarshallTest.java",
+     "charCount": 1312
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\BookExampleCode\\T8\\FloydWarshallTest.java",
+     "charCount": 1166
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\BookExampleCode\\T9\\FloydWarshallTest.java",
+     "charCount": 1283
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\PromptOnly\\T1\\FloydWarshallTest.java",
+     "charCount": 1183
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\PromptOnly\\T10\\FloydWarshallTest.java",
+     "charCount": 1125
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\PromptOnly\\T2\\FloydWarshallTest.java",
+     "charCount": 1164
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\PromptOnly\\T3\\FloydWarshallTest.java",
+     "charCount": 1148
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\PromptOnly\\T4\\FloydWarshallTest.java",
+     "charCount": 1164
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\PromptOnly\\T5\\FloydWarshallTest.java",
+     "charCount": 1161
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\PromptOnly\\T6\\FloydWarshallTest.java",
+     "charCount": 1236
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\PromptOnly\\T7\\FloydWarshallTest.java",
+     "charCount": 807
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\PromptOnly\\T8\\FloydWarshallTest.java",
+     "charCount": 1297
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\FloydWarshall\\PromptOnly\\T9\\FloydWarshallTest.java",
+     "charCount": 692
+    }
+   ]
+  },
+  "Knapsack": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\AIGenerated\\T1\\KnapsackTest.java",
+     "charCount": 289
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\AIGenerated\\T10\\KnapsackTest.java",
+     "charCount": 590
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\AIGenerated\\T2\\KnapsackTest.java",
+     "charCount": 383
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\AIGenerated\\T3\\KnapsackTest.java",
+     "charCount": 606
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\AIGenerated\\T4\\KnapsackTest.java",
+     "charCount": 602
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\AIGenerated\\T5\\KnapsackTest.java",
+     "charCount": 240
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\AIGenerated\\T6\\KnapsackTest.java",
+     "charCount": 244
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\AIGenerated\\T7\\KnapsackTest.java",
+     "charCount": 327
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\AIGenerated\\T8\\KnapsackTest.java",
+     "charCount": 412
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\AIGenerated\\T9\\KnapsackTest.java",
+     "charCount": 602
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\BookExampleCode\\T1\\KnapsackTest.java",
+     "charCount": 497
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\BookExampleCode\\T10\\KnapsackTest.java",
+     "charCount": 578
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\BookExampleCode\\T2\\KnapsackTest.java",
+     "charCount": 234
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\BookExampleCode\\T3\\KnapsackTest.java",
+     "charCount": 497
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\BookExampleCode\\T4\\KnapsackTest.java",
+     "charCount": 524
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\BookExampleCode\\T5\\KnapsackTest.java",
+     "charCount": 570
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\BookExampleCode\\T6\\KnapsackTest.java",
+     "charCount": 289
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\BookExampleCode\\T7\\KnapsackTest.java",
+     "charCount": 220
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\BookExampleCode\\T8\\KnapsackTest.java",
+     "charCount": 501
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\BookExampleCode\\T9\\KnapsackTest.java",
+     "charCount": 233
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\PromptOnly\\T1\\KnapsackTest.java",
+     "charCount": 224
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\PromptOnly\\T10\\KnapsackTest.java",
+     "charCount": 579
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\PromptOnly\\T2\\KnapsackTest.java",
+     "charCount": 539
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\PromptOnly\\T3\\KnapsackTest.java",
+     "charCount": 523
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\PromptOnly\\T4\\KnapsackTest.java",
+     "charCount": 444
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\PromptOnly\\T5\\KnapsackTest.java",
+     "charCount": 222
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\PromptOnly\\T6\\KnapsackTest.java",
+     "charCount": 670
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\PromptOnly\\T7\\KnapsackTest.java",
+     "charCount": 602
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\PromptOnly\\T8\\KnapsackTest.java",
+     "charCount": 621
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Knapsack\\PromptOnly\\T9\\KnapsackTest.java",
+     "charCount": 721
+    }
+   ]
+  },
+  "Kruskal": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\AIGenerated\\T1\\KruskalTest.java",
+     "charCount": 944
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\AIGenerated\\T10\\KruskalTest.java",
+     "charCount": 1043
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\AIGenerated\\T2\\KruskalTest.java",
+     "charCount": 1027
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\AIGenerated\\T3\\KruskalTest.java",
+     "charCount": 992
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\AIGenerated\\T4\\KruskalTest.java",
+     "charCount": 970
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\AIGenerated\\T5\\KruskalTest.java",
+     "charCount": 1024
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\AIGenerated\\T6\\KruskalTest.java",
+     "charCount": 1027
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\AIGenerated\\T7\\KruskalTest.java",
+     "charCount": 1007
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\AIGenerated\\T8\\KruskalTest.java",
+     "charCount": 1041
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\AIGenerated\\T9\\KruskalTest.java",
+     "charCount": 1007
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\BookExampleCode\\T1\\KruskalTest.java",
+     "charCount": 1007
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\BookExampleCode\\T10\\KruskalTest.java",
+     "charCount": 937
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\BookExampleCode\\T2\\KruskalTest.java",
+     "charCount": 698
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\BookExampleCode\\T3\\KruskalTest.java",
+     "charCount": 932
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\BookExampleCode\\T4\\KruskalTest.java",
+     "charCount": 1031
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\BookExampleCode\\T5\\KruskalTest.java",
+     "charCount": 680
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\BookExampleCode\\T6\\KruskalTest.java",
+     "charCount": 957
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\BookExampleCode\\T7\\KruskalTest.java",
+     "charCount": 931
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\BookExampleCode\\T8\\KruskalTest.java",
+     "charCount": 1045
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\BookExampleCode\\T9\\KruskalTest.java",
+     "charCount": 931
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\PromptOnly\\T1\\KruskalTest.java",
+     "charCount": 990
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\PromptOnly\\T10\\KruskalTest.java",
+     "charCount": 1100
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\PromptOnly\\T2\\KruskalTest.java",
+     "charCount": 837
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\PromptOnly\\T3\\KruskalTest.java",
+     "charCount": 930
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\PromptOnly\\T4\\KruskalTest.java",
+     "charCount": 919
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\PromptOnly\\T5\\KruskalTest.java",
+     "charCount": 992
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\PromptOnly\\T6\\KruskalTest.java",
+     "charCount": 1099
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\PromptOnly\\T7\\KruskalTest.java",
+     "charCount": 1026
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\PromptOnly\\T8\\KruskalTest.java",
+     "charCount": 955
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\Kruskal\\PromptOnly\\T9\\KruskalTest.java",
+     "charCount": 1026
+    }
+   ]
+  },
+  "MergeSort": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\AIGenerated\\T1\\MergeSortTest.java",
+     "charCount": 306
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\AIGenerated\\T10\\MergeSortTest.java",
+     "charCount": 397
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\AIGenerated\\T2\\MergeSortTest.java",
+     "charCount": 533
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\AIGenerated\\T3\\MergeSortTest.java",
+     "charCount": 441
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\AIGenerated\\T4\\MergeSortTest.java",
+     "charCount": 595
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\AIGenerated\\T5\\MergeSortTest.java",
+     "charCount": 196
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\AIGenerated\\T6\\MergeSortTest.java",
+     "charCount": 590
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\AIGenerated\\T7\\MergeSortTest.java",
+     "charCount": 500
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\AIGenerated\\T8\\MergeSortTest.java",
+     "charCount": 568
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\AIGenerated\\T9\\MergeSortTest.java",
+     "charCount": 561
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\BookExampleCode\\T1\\MergeSortTest.java",
+     "charCount": 608
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\BookExampleCode\\T10\\MergeSortTest.java",
+     "charCount": 569
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\BookExampleCode\\T2\\MergeSortTest.java",
+     "charCount": 541
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\BookExampleCode\\T3\\MergeSortTest.java",
+     "charCount": 535
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\BookExampleCode\\T4\\MergeSortTest.java",
+     "charCount": 554
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\BookExampleCode\\T5\\MergeSortTest.java",
+     "charCount": 641
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\BookExampleCode\\T6\\MergeSortTest.java",
+     "charCount": 524
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\BookExampleCode\\T7\\MergeSortTest.java",
+     "charCount": 552
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\BookExampleCode\\T8\\MergeSortTest.java",
+     "charCount": 605
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\BookExampleCode\\T9\\MergeSortTest.java",
+     "charCount": 568
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\PromptOnly\\T1\\MergeSortTest.java",
+     "charCount": 500
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\PromptOnly\\T10\\MergeSortTest.java",
+     "charCount": 500
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\PromptOnly\\T2\\MergeSortTest.java",
+     "charCount": 245
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\PromptOnly\\T3\\MergeSortTest.java",
+     "charCount": 388
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\PromptOnly\\T4\\MergeSortTest.java",
+     "charCount": 616
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\PromptOnly\\T5\\MergeSortTest.java",
+     "charCount": 490
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\PromptOnly\\T6\\MergeSortTest.java",
+     "charCount": 566
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\PromptOnly\\T7\\MergeSortTest.java",
+     "charCount": 71
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\PromptOnly\\T8\\MergeSortTest.java",
+     "charCount": 254
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\MergeSort\\PromptOnly\\T9\\MergeSortTest.java",
+     "charCount": 379
+    }
+   ]
+  },
+  "QuickSort": {
+   "AIGenerated": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\AIGenerated\\T1\\QuickSortTest.java",
+     "charCount": 683
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\AIGenerated\\T10\\QuickSortTest.java",
+     "charCount": 573
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\AIGenerated\\T2\\QuickSortTest.java",
+     "charCount": 1275
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\AIGenerated\\T3\\QuickSortTest.java",
+     "charCount": 620
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\AIGenerated\\T4\\QuickSortTest.java",
+     "charCount": 573
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\AIGenerated\\T5\\QuickSortTest.java",
+     "charCount": 592
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\AIGenerated\\T6\\QuickSortTest.java",
+     "charCount": 643
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\AIGenerated\\T7\\QuickSortTest.java",
+     "charCount": 581
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\AIGenerated\\T8\\QuickSortTest.java",
+     "charCount": 578
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\AIGenerated\\T9\\QuickSortTest.java",
+     "charCount": 548
+    }
+   ],
+   "BookExampleCode": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\BookExampleCode\\T1\\QuickSortTest.java",
+     "charCount": 854
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\BookExampleCode\\T10\\QuickSortTest.java",
+     "charCount": 596
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\BookExampleCode\\T2\\QuickSortTest.java",
+     "charCount": 540
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\BookExampleCode\\T3\\QuickSortTest.java",
+     "charCount": 654
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\BookExampleCode\\T4\\QuickSortTest.java",
+     "charCount": 566
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\BookExampleCode\\T5\\QuickSortTest.java",
+     "charCount": 558
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\BookExampleCode\\T6\\QuickSortTest.java",
+     "charCount": 627
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\BookExampleCode\\T7\\QuickSortTest.java",
+     "charCount": 781
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\BookExampleCode\\T8\\QuickSortTest.java",
+     "charCount": 622
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\BookExampleCode\\T9\\QuickSortTest.java",
+     "charCount": 483
+    }
+   ],
+   "PromptOnly": [
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\PromptOnly\\T1\\QuickSortTest.java",
+     "charCount": 359
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\PromptOnly\\T10\\QuickSortTest.java",
+     "charCount": 369
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\PromptOnly\\T2\\QuickSortTest.java",
+     "charCount": 202
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\PromptOnly\\T3\\QuickSortTest.java",
+     "charCount": 337
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\PromptOnly\\T4\\QuickSortTest.java",
+     "charCount": 613
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\PromptOnly\\T5\\QuickSortTest.java",
+     "charCount": 520
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\PromptOnly\\T6\\QuickSortTest.java",
+     "charCount": 425
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\PromptOnly\\T7\\QuickSortTest.java",
+     "charCount": 505
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\PromptOnly\\T8\\QuickSortTest.java",
+     "charCount": 416
+    },
+    {
+     "path": "java_testgen_app\\src\\test\\java\\Copilot\\QuickSort\\PromptOnly\\T9\\QuickSortTest.java",
+     "charCount": 539
+    }
+   ]
+  }
+ }
+}
